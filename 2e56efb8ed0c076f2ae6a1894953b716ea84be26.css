@@ -435,6 +435,19 @@ td, th {
     color: #eb5757 !important;
     /* Front red color. */
     }
+.notion-link-ai-version {
+    transition: 100ms ease-in
+    }
+.notion-link-ai-version:hover {
+    color: #ca59ff !important;
+    /* AI Version purple color. */
+    }
+.notion-ai-icon {
+    transition: 100ms ease-in
+    }
+.notion-ai-icon:hover {
+    filter: brightness(1.3)
+    }
 .notion-mobile-tapping {
     opacity: 0.6
     }
@@ -580,6 +593,29 @@ html.notion-front-page .notion-app-inner {
     background: transparent
     }
 /* ==================================================================== */
+/* Box.
+/* ==================================================================== */
+/* testid data attribute is the wrapper for the picker element
+	.be-app-element is the content element*/
+#box-app-container > div {
+    position: absolute;
+    background: rgba(255, 255, 255, 0.5);
+    height: 100vh;
+    width: 100vw;
+    z-index: 1000;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center
+    }
+#box-app-container .be-app-element {
+    width: calc(100% - 150px);
+    height: calc(100% - 150px);
+    background: white;
+    max-width: 1150px;
+    max-height: 620px
+    }
+/* ==================================================================== */
 /* Loading Spinner.
 /* ==================================================================== */
 .loading-spinner {
@@ -625,22 +661,22 @@ html.notion-front-page .notion-app-inner {
 /* ==================================================================== */
 /* Sidebar loading skeleton shimmer
 /* ==================================================================== */
-.notion-sidebar-loading-skeleton-shimmer {
+.notion-shimmer {
     overflow: hidden;
     position: relative
     }
-.notion-sidebar-loading-skeleton-shimmer::before {
+.notion-shimmer::before {
     content: "";
     position: absolute;
     height: 100%;
     width: 100%;
     z-index: 1;
-    animation: shimmer 1s infinite
+    animation: 1s linear infinite shimmer
     }
-.notion-light-theme .notion-sidebar-loading-skeleton-shimmer::before {
+.notion-light-theme .notion-shimmer::before {
     background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.4) 50%, rgba(255, 255, 255, 0) 100%)
     }
-.notion-dark-theme .notion-sidebar-loading-skeleton-shimmer::before {
+.notion-dark-theme .notion-shimmer::before {
     background: linear-gradient(90deg, rgba(86, 86, 86, 0) 0%, rgba(86, 86, 86, 0.4) 50%, rgba(86, 86, 86, 0) 100%)
     }
 @keyframes shimmer {
