@@ -92,7 +92,7 @@ Dawei Li, `Hengyuan Zhang`, Yanran Li, Shiping Yang
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AACL 2023 Oral</div><img src='images/def-gen-contrast.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AACL 2022 Oral</div><img src='images/def-gen-contrast.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Fine-grained Contrastive Learning for Definition Generation**
 
