@@ -72,7 +72,7 @@ I am enthusiastic about exploring the potential of natural language processing t
 
 <img class="svg" src="/images/sensetime.png" width="60pt">Sensetime, Research, Shenzhen
 <br>
-- *Aug. 2023 - Present*, Research Assistant, working with [Fei Tan](https://scholar.google.com/citations?hl=zh-CN&user=IhYATC0AAAAJ&view_op=list_works&sortby=pubdate)
+- *Aug. 2023 - Present*, Research Intern, working with [Fei Tan](https://scholar.google.com/citations?hl=zh-CN&user=IhYATC0AAAAJ&view_op=list_works&sortby=pubdate)
 <!-- <br> -->
 
 
@@ -95,7 +95,6 @@ Dawei Li, `Hengyuan Zhang`, Yanran Li, Shiping Yang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AACL 2022 Oral</div><img src='images/def-gen-contrast.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Fine-grained Contrastive Learning for Definition Generation**
-
 `Hengyuan Zhang`\*, Dawei Li\*, Shiping Yang, Yanran Li
 
 [[Paper]](https://arxiv.org/abs/2210.00543) | [[Code]](https://github.com/rattlesnakey/Definition-Gneration-Contrastive)
