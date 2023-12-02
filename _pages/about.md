@@ -66,7 +66,7 @@ I am enthusiastic about exploring the potential of natural language processing t
 
 <img class="svg" src="/images/tencent-logo.png" width="60pt"> Tencent, AI Lab, Shenzhen
 <br>
-- *Mar. 2022 - Sept. 2022*, Research Intern, working with [Wei Bi](https://scholar.google.com/citations?hl=zh-CN&user=aSJcgQMAAAAJ&view_op=list_works&sortby=pubdate)
+- *Mar. 2023 - Jul. 2023*, Research Intern, working with [Wei Bi](https://scholar.google.com/citations?hl=zh-CN&user=aSJcgQMAAAAJ&view_op=list_works&sortby=pubdate)
 
 <!-- <br> -->
 
