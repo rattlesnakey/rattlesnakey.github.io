@@ -97,6 +97,7 @@ Dawei Li, `Hengyuan Zhang`, Yanran Li, Shiping Yang
 **Fine-grained Contrastive Learning for Definition Generation**
 
 `Hengyuan Zhang`\*, Dawei Li\*, Shiping Yang, Yanran Li
+
 [[Paper]](https://arxiv.org/abs/2210.00543) | [[Code]](https://github.com/rattlesnakey/Definition-Gneration-Contrastive)
 </div>
 </div>
