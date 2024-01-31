@@ -72,7 +72,7 @@ I am enthusiastic about exploring the potential of natural language processing t
 
 <img class="svg" src="/images/sensetime.png" width="60pt">Sensetime, Research, Shenzhen
 <br>
-- *Aug. 2023 - Present*, Research Intern, working with [Fei Tan](https://scholar.google.com/citations?hl=zh-CN&user=IhYATC0AAAAJ&view_op=list_works&sortby=pubdate)
+- *Aug. 2023 - Present*, Research Intern, working with [Fei Tan](https://scholar.google.com/citations?hl=zh-CN&user=IhYATC0AAAAJ&view_op=list_works&sortby=pubdate) and [Ziqing Yang]([text](https://scholar.google.com.hk/citations?user=cbYCaq4AAAAJ&hl=zh-CN))
 <!-- <br> -->
 
 
