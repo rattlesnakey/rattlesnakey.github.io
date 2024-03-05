@@ -172,7 +172,7 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 </div>
 
 <!-- KBS -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint March. 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint Mar. 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Improving Low-Resource Knowledge Tracing Tasks by Supervised Pre-training and Importance Mechanism Fine-tuning**
 
