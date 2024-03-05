@@ -45,42 +45,62 @@ I am enthusiastic about exploring the potential of natural language processing t
 <span class='anchor' id='-intern'></span>
 
 # 💻 Interships
+<!-- icall -->
 <img class="svg" src="/images/icall.png" width="60pt">Advanced Innovation Center for Language Resources, Beijing 
 <br>
 - *Mar. 2019 - Jul. 2022*, Research Assistant, working with [Liner Yang](https://yuyanziyuan.blcu.edu.cn/info/1032/2481.htm)
 
 
-
+<!-- baidu -->
 <img class="svg" src="/images/baidu.png" width="60pt">Baidu, Search Strategy Lab, Beijing
 <br>
 - *Mar. 2021 - Jul. 2021*, Engineering Intern, working with Ge Chen
 
 <!-- <br> -->
-
+<!-- xiaomi -->
 <img class="svg" src="/images/xiaomi-logo.png" width="30pt"> Xiaomi, AI Lab, Beijing
 <br>
 - *Mar. 2022 - Sept. 2022*, Research Intern, working with [Yanran Li](https://www.aminer.cn/profile/Yanran%20Li/53f42c51dabfaee02ac50cf3)
 
 
 <!-- <br> -->
-
+<!-- tencent -->
 <img class="svg" src="/images/tencent-logo.png" width="60pt"> Tencent, AI Lab, Shenzhen
 <br>
 - *Mar. 2023 - Jul. 2023*, Research Intern, working with [Wei Bi](https://scholar.google.com/citations?hl=zh-CN&user=aSJcgQMAAAAJ&view_op=list_works&sortby=pubdate)
 
 <!-- <br> -->
-
+<!-- sensetime -->
 <img class="svg" src="/images/sensetime.png" width="60pt">Sensetime, Research, Shenzhen
 <br>
-- *Aug. 2023 - Present*, Research Intern, working with [Fei Tan](https://scholar.google.com/citations?hl=zh-CN&user=IhYATC0AAAAJ&view_op=list_works&sortby=pubdate) and [Ziqing Yang]([text](https://scholar.google.com.hk/citations?user=cbYCaq4AAAAJ&hl=zh-CN))
+- *Aug. 2023 - Mar. 2024*, Research Intern, working with [Fei Tan](https://scholar.google.com/citations?hl=zh-CN&user=IhYATC0AAAAJ&view_op=list_works&sortby=pubdate) and [Ziqing Yang](https://scholar.google.com.hk/citations?user=cbYCaq4AAAAJ&hl=zh-CN)
+<!-- <br> -->
+
+<!--MSRA -->
+<img class="svg" src="/images/MSRA.png" width="60pt">MSRA, Natural Language Computing (NLC) Group, Beijing
+<br>
+- *Mar.. 2024 - Present*, Research Intern, working with [Haoyang Huang](https://scholar.google.com/citations?user=nIS66toAAAAJ&hl=en) and [DongDong Zhang](https://scholar.google.com/citations?user=w2qu71oAAAAJ&hl=en)
 <!-- <br> -->
 
 
 <span class='anchor' id='-pub'></span>
 
+
 # 📝 Publications
 \* denotes equal contribution
+<!-- CVPR Res-CBM -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/Res-CBM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Incremental Residual Concept Bottleneck Model**
 
+Chenming Shang, Shiji Zhou, `Hengyuan Zhang`, Xinzhe Ni, Yujiiu Yang, Yuwang Wang
+
+[[Paper]](https://rattlesnakey.github.io/)
+</div>
+</div>
+
+
+<!-- emnlp character -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023 Main Conference</div><img src='images/emnlp2023-character.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Multi-level Contrastive Learning for Script-based Character Understanding**
@@ -91,7 +111,18 @@ Dawei Li, `Hengyuan Zhang`, Yanran Li, Shiping Yang
 </div>
 </div>
 
+<!-- ACL BEA workshop -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023 BEA Workshop</div><img src='images/prompt-contrast-def-gen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Assisting Language Learners: Automated Trans-Lingual Definition Generation via Contrastive Prompt Learning**
 
+`Hengyuan Zhang`, Dawei Li, Yanran Li, Chenming Shang, Chufan Shi, Yong Jiang
+
+[[Paper]](https://arxiv.org/abs/2306.06058) | [[Code]](https://github.com/rattlesnakey/Prompt-Contrastive-Def-Gen)
+</div>
+</div>
+
+<!-- AACL 2022 def-gen -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AACL 2022 Oral</div><img src='images/def-gen-contrast.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Fine-grained Contrastive Learning for Definition Generation**
@@ -102,16 +133,8 @@ Dawei Li, `Hengyuan Zhang`, Yanran Li, Shiping Yang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023 BEA Workshop</div><img src='images/prompt-contrast-def-gen.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Assisting Language Learners: Automated Trans-Lingual Definition Generation via Contrastive Prompt Learning**
 
-`Hengyuan Zhang`, Dawei Li, Yanran Li, Chenming Shang, Chufan Shi, Yong Jiang
-
-[[Paper]](https://arxiv.org/abs/2306.06058)
-</div>
-</div>
-
+<!-- ACL 2022 multitask -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022 Main Conference</div><img src='images/multitask-def-gen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Multitasking Framework for Unsupervised Simple Definition Generation**
@@ -123,7 +146,7 @@ Cunliang Kong, Yun Chen, `Hengyuan Zhang`, Liner Yang, Erhong Yang
 </div>
 
 
-
+<!-- NAACL SemEval -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2022 SemEval</div><img src='images/semeval.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **BLCU-ICALL at SemEval-2022 Task 1: Cross-Attention Multitasking Framework for Definition Modeling**
@@ -133,6 +156,43 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 [[Paper]](https://arxiv.org/abs/2204.07701) | [[Code]](https://github.com/blcuicall/SemEval2022-Task1-DM)
 </div>
 </div>
+
+
+# 📚 Preprint
+<!-- ACL 2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint Feb. 2024</div><img src='images/CoFiTune.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Balancing Speciality and Versatility: a Coarse to Fine Framework for Supervised Fine-tuning Large Language Model**
+
+`Hengyuan Zhang`, Yanru Wu, Dawei Li, Zacc Yang, Rui Zhao, Yong Jiang, Fei Tan
+<!-- `Hengyuan Zhang`, et al -->
+
+[[Paper]](https://openreview.net/pdf/a9aa26a4c2daa719e35412a023f3f70e83a742eb.pdf) | [[Code]](https://anonymous.4open.science/r/CoFiTune-542C)
+</div>
+</div>
+
+<!-- KBS -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint March. 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Improving Low-Resource Knowledge Tracing Tasks by Supervised Pre-training and Importance Mechanism Fine-tuning**
+
+`Hengyuan Zhang`, Zitao Liu, Shuyan Huang, Chenming Shang, Bojun Zhan, Yong Jiang
+
+[[Paper]](https://ns7kunkhuh.feishu.cn/file/NDbeb5JakoMDr9xzE76cP0NTnlQ) | [[Code]](https://anonymous.4open.science/r/LoReKT-C619/README.md)
+</div>
+</div>
+
+<!-- TKDD -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint Feb. 2024</div><img src='images/Q-MCKT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**A Question-centric Multi-experts Contrastive Learning Framework for Improving the Accuracy and Interpretability of Deep Sequential Knowledge Tracing Models**
+
+`Hengyuan Zhang`, Zitao Liu, Chenming Shang, Dawei Li, Yong Jiang
+
+[[Paper]](https://ns7kunkhuh.feishu.cn/file/NNxxbNPxMoqVEyxgGcPcR4TynMf) | [[Code]](https://github.com/rattlesnakey/Q-MCKT)
+</div>
+</div>
+
 
 
 <br>
