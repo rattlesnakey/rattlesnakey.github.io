@@ -20,8 +20,12 @@ redirect_from:
 🤓 Hey folks! I am Hengyuan Zhang (张恒源).
 I am a master student at Tsinghua University from August 2022, under the supervision of Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN). I received my Bachelor of Science degree at Beijing Language and Culture University (北京语言大学) in 2022. 
 During my undergraduate study, I interned at [AICLR](https://yuyanziyuan.blcu.edu.cn/index.htm) (语言资源高精尖创新中心) and Xiaomi AI Lab, where I was fortunate to work with Prof. [Liner Yang](https://yuyanziyuan.blcu.edu.cn/info/1032/2481.htm) and Dr. [Yanran Li](https://www.aminer.cn/profile/Yanran%20Li/53f42c51dabfaee02ac50cf3).
-My primary research interests are in the field of Natural Language Processing. Currently, I am conducting research on **Large Language Models** and their **interdisciplinary applications (e.g. educational technology and social science)**. 
-I am enthusiastic about exploring the potential of natural language processing to contribute to various fields of study.
+My primary research interests are in the field of **Natural Language Processing** and **Data Mining**. 
+Currently, I am actively conducting research on their **interdisciplinary applications (e.g., finance, educational technology and social science)**. I am also exploring the possibility of **enrolling in a Ph.D. program for the Fall of 2025**. If there are any opportunities for collaboration, please feel free to reach out to me at your convenience.
+
+
+
+<!-- I am enthusiastic about exploring the potential of  to contribute to various fields of study. -->
 
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
@@ -223,7 +227,7 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 <span class='anchor' id='miscellaneous'></span>
 # 📌 Miscellaneous
 - I am actually a person with a strong desire to share. In my spare time, I like writing blogs and sharing experiences on Redbook, [Wechat Official account](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0NTI3ODI2OQ==&scene=124#wechat_redirect) and [bilibili](https://space.bilibili.com/14709944?spm_id_from=333.1007.0.0) (阿源的NLP碎碎念).
-- I used to be a guitarist 🎸 in a band when I was in high school. Also, I love playing badminton 🏸, table tennis 🏓 and soccer ⚽️. During holidays, I will also seize any opportunity to travel around the world  ⛳️
+- I used to be a guitarist 🎸 in a band when I was in high school. Also, I love playing badminton 🏸, table tennis 🏓 and soccer ⚽️. During holidays, I will also seize any opportunity to travel around the world  ⛳️.
 
 <div style="display: flex;">
   <img src="images/life1.png" alt="Image 1" width="50%" />
