@@ -21,7 +21,7 @@ redirect_from:
 I am a master student at Tsinghua University from August 2022, under the supervision of Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN). I received my Bachelor of Science degree at Beijing Language and Culture University (北京语言大学) in 2022. 
 During my undergraduate study, I interned at [AICLR](https://yuyanziyuan.blcu.edu.cn/index.htm) (语言资源高精尖创新中心) and Xiaomi AI Lab, where I was fortunate to work with Prof. [Liner Yang](https://yuyanziyuan.blcu.edu.cn/info/1032/2481.htm) and Dr. [Yanran Li](https://www.aminer.cn/profile/Yanran%20Li/53f42c51dabfaee02ac50cf3).
 My primary research interests are in the field of **Natural Language Processing** and **Data Mining**. 
-Currently, I am actively conducting research on their **interdisciplinary applications (e.g., finance, educational technology and social science)**. I am also exploring the possibility of **enrolling in a Ph.D. program for the Fall of 2025**. If there are any opportunities for collaboration, please feel free to reach out to me at your convenience.
+Currently, I am actively conducting research on their **interdisciplinary applications (e.g., Finance, Educational and Cognitive Science)**. I am also exploring the possibility of **enrolling in a Ph.D. program for the Fall of 2025**. If there are any opportunities for collaboration, please feel free to reach out to me at your convenience.
 
 
 
@@ -89,6 +89,46 @@ Currently, I am actively conducting research on their **interdisciplinary applic
 
 <span class='anchor' id='-pub'></span>
 
+# 📚 Preprint
+<!-- ACL 2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint Feb. 2024</div><img src='images/CoFiTune.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Balancing Speciality and Versatility: a Coarse to Fine Framework for Supervised Fine-tuning Large Language Model**
+
+`Hengyuan Zhang`, Yanru Wu, Dawei Li, Zacc Yang, Rui Zhao, Yong Jiang, Fei Tan
+<!-- `Hengyuan Zhang`, et al -->
+
+*Natural Language Processing, Finance* 
+
+[[Paper]](https://openreview.net/pdf/a9aa26a4c2daa719e35412a023f3f70e83a742eb.pdf) | [[Code]](https://anonymous.4open.science/r/CoFiTune-542C)
+</div>
+</div>
+
+<!-- KBS -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint Mar. 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Improving Low-Resource Knowledge Tracing Tasks by Supervised Pre-training and Importance Mechanism Fine-tuning**
+
+`Hengyuan Zhang`, Zitao Liu, Shuyan Huang, Chenming Shang, Bojun Zhan, Yong Jiang
+
+*Data Mining, Education* 
+
+[[Paper]](https://ns7kunkhuh.feishu.cn/file/NDbeb5JakoMDr9xzE76cP0NTnlQ) | [[Code]](https://anonymous.4open.science/r/LoReKT-C619/README.md)
+</div>
+</div>
+
+<!-- TKDD -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint Feb. 2024</div><img src='images/Q-MCKT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**A Question-centric Multi-experts Contrastive Learning Framework for Improving the Accuracy and Interpretability of Deep Sequential Knowledge Tracing Models**
+
+`Hengyuan Zhang`, Zitao Liu, Chenming Shang, Dawei Li, Yong Jiang
+
+*Data Mining, Education* 
+
+[[Paper]](https://ns7kunkhuh.feishu.cn/file/NNxxbNPxMoqVEyxgGcPcR4TynMf) | [[Code]](https://github.com/rattlesnakey/Q-MCKT)
+</div>
+</div>
 
 # 📝 Publications
 \* denotes equal contribution
@@ -97,12 +137,13 @@ Currently, I am actively conducting research on their **interdisciplinary applic
 <div class='paper-box-text' markdown="1">
 **Incremental Residual Concept Bottleneck Model**
 
-Chenming Shang, Shiji Zhou, `Hengyuan Zhang`, Xinzhe Ni, Yujiiu Yang, Yuwang Wang
+Chenming Shang, Shiji Zhou, `Hengyuan Zhang`, Xinzhe Ni, Yujiu Yang, Yuwang Wang
+
+*Computer Vision, Cognitive Science*
 
 [[Paper]](https://rattlesnakey.github.io/) | [[Code]](https://rattlesnakey.github.io/)
 </div>
 </div>
-
 
 <!-- emnlp character -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023 Main Conference</div><img src='images/emnlp2023-character.png' alt="sym" width="100%"></div></div>
@@ -110,6 +151,8 @@ Chenming Shang, Shiji Zhou, `Hengyuan Zhang`, Xinzhe Ni, Yujiiu Yang, Yuwang Wan
 **Multi-level Contrastive Learning for Script-based Character Understanding**
 
 Dawei Li, `Hengyuan Zhang`, Yanran Li, Shiping Yang 
+
+*Natural Language Processing, Cognitive Science*
 
 [[Paper]](https://arxiv.org/pdf/2310.13231v1.pdf) | [[Code]](https://github.com/David-Li0406/Script-based-Character-Understanding)
 </div>
@@ -122,9 +165,12 @@ Dawei Li, `Hengyuan Zhang`, Yanran Li, Shiping Yang
 
 `Hengyuan Zhang`, Dawei Li, Yanran Li, Chenming Shang, Chufan Shi, Yong Jiang
 
+*Natural Language Processing, Education* 
+
 [[Paper]](https://arxiv.org/abs/2306.06058) | [[Code]](https://github.com/rattlesnakey/Prompt-Contrastive-Def-Gen)
 </div>
 </div>
+
 
 <!-- AACL 2022 def-gen -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AACL 2022 Oral</div><img src='images/def-gen-contrast.png' alt="sym" width="100%"></div></div>
@@ -132,6 +178,8 @@ Dawei Li, `Hengyuan Zhang`, Yanran Li, Shiping Yang
 **Fine-grained Contrastive Learning for Definition Generation**
 
 `Hengyuan Zhang`\*, Dawei Li\*, Shiping Yang, Yanran Li
+
+*Natural Language Processing, Education* 
 
 [[Paper]](https://arxiv.org/abs/2210.00543) | [[Code]](https://github.com/rattlesnakey/Definition-Gneration-Contrastive)
 </div>
@@ -145,6 +193,8 @@ Dawei Li, `Hengyuan Zhang`, Yanran Li, Shiping Yang
 
 Cunliang Kong, Yun Chen, `Hengyuan Zhang`, Liner Yang, Erhong Yang
 
+*Natural Language Processing, Education* 
+
 [[Paper]](https://arxiv.org/abs/2203.12926) | [[Code]](https://github.com/blcuicall/SimpDefiner)
 </div>
 </div>
@@ -157,43 +207,9 @@ Cunliang Kong, Yun Chen, `Hengyuan Zhang`, Liner Yang, Erhong Yang
 
 Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong Yang
 
+*Natural Language Processing, Education* 
+
 [[Paper]](https://arxiv.org/abs/2204.07701) | [[Code]](https://github.com/blcuicall/SemEval2022-Task1-DM)
-</div>
-</div>
-
-
-# 📚 Preprint
-<!-- ACL 2024 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint Feb. 2024</div><img src='images/CoFiTune.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Balancing Speciality and Versatility: a Coarse to Fine Framework for Supervised Fine-tuning Large Language Model**
-
-`Hengyuan Zhang`, Yanru Wu, Dawei Li, Zacc Yang, Rui Zhao, Yong Jiang, Fei Tan
-<!-- `Hengyuan Zhang`, et al -->
-
-[[Paper]](https://openreview.net/pdf/a9aa26a4c2daa719e35412a023f3f70e83a742eb.pdf) | [[Code]](https://anonymous.4open.science/r/CoFiTune-542C)
-</div>
-</div>
-
-<!-- KBS -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint Mar. 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Improving Low-Resource Knowledge Tracing Tasks by Supervised Pre-training and Importance Mechanism Fine-tuning**
-
-`Hengyuan Zhang`, Zitao Liu, Shuyan Huang, Chenming Shang, Bojun Zhan, Yong Jiang
-
-[[Paper]](https://ns7kunkhuh.feishu.cn/file/NDbeb5JakoMDr9xzE76cP0NTnlQ) | [[Code]](https://anonymous.4open.science/r/LoReKT-C619/README.md)
-</div>
-</div>
-
-<!-- TKDD -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint Feb. 2024</div><img src='images/Q-MCKT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**A Question-centric Multi-experts Contrastive Learning Framework for Improving the Accuracy and Interpretability of Deep Sequential Knowledge Tracing Models**
-
-`Hengyuan Zhang`, Zitao Liu, Chenming Shang, Dawei Li, Yong Jiang
-
-[[Paper]](https://ns7kunkhuh.feishu.cn/file/NNxxbNPxMoqVEyxgGcPcR4TynMf) | [[Code]](https://github.com/rattlesnakey/Q-MCKT)
 </div>
 </div>
 
