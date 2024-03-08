@@ -81,9 +81,9 @@ Currently, I am actively conducting research on their **interdisciplinary applic
 <!-- <br> -->
 
 <!--MSRA -->
-<!-- <img class="svg" src="/images/MSRA.png" width="60pt">MSRA, Natural Language Computing (NLC) Group, Beijing
+<img class="svg" src="/images/MSRA.png" width="60pt">MSRA, Natural Language Computing (NLC) Group, Beijing
 <br>
-- *Mar. 2024 - Present*, Research Intern, working with [Haoyang Huang](https://scholar.google.com/citations?user=nIS66toAAAAJ&hl=en) and [DongDong Zhang](https://scholar.google.com/citations?user=w2qu71oAAAAJ&hl=en) -->
+- *Mar. 2024 - Present*, Research Intern, working with [Haoyang Huang](https://scholar.google.com/citations?user=nIS66toAAAAJ&hl=en) and [DongDong Zhang](https://scholar.google.com/citations?user=w2qu71oAAAAJ&hl=en)
 <!-- <br> -->
 
 
