@@ -20,6 +20,7 @@ redirect_from:
 🤓 Hey folks! I am Hengyuan Zhang (张恒源).
 I am a master student at Tsinghua University from August 2022, under the supervision of Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN). I received my Bachelor of Science degree at Beijing Language and Culture University (北京语言大学) in 2022. 
 <!-- During my undergraduate study, I interned at [AICLR](https://yuyanziyuan.blcu.edu.cn/index.htm) (语言资源高精尖创新中心) and Xiaomi AI Lab, where I was fortunate to work with Prof. [Liner Yang](https://yuyanziyuan.blcu.edu.cn/info/1032/2481.htm) and Dr. [Yanran Li](https://www.aminer.cn/profile/Yanran%20Li/53f42c51dabfaee02ac50cf3). -->
+<br>
 My primary research interests are in the field of **Natural Language Processing** and **Data Mining**. 
 Currently, I am actively conducting research on their **interdisciplinary applications (e.g., Finance, Educational and Cognitive Science)**. I am also exploring the possibility of **enrolling in a Ph.D. program for the Fall of 2025**. If there are any opportunities for collaboration, please feel free to reach out to me at your convenience.
 
