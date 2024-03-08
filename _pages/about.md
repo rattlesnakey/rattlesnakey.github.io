@@ -77,13 +77,13 @@ Currently, I am actively conducting research on their **interdisciplinary applic
 <!-- sensetime -->
 <img class="svg" src="/images/sensetime.png" width="85pt">Sensetime, Research, Shenzhen
 <br>
-- *Aug. 2023 - Feb. 2024*, Research Intern, working with [Fei Tan](https://scholar.google.com/citations?hl=zh-CN&user=IhYATC0AAAAJ&view_op=list_works&sortby=pubdate) and [Ziqing Yang](https://scholar.google.com.hk/citations?user=cbYCaq4AAAAJ&hl=zh-CN)
+- *Aug. 2023 - Mar. 2024*, Research Intern, working with [Fei Tan](https://scholar.google.com/citations?hl=zh-CN&user=IhYATC0AAAAJ&view_op=list_works&sortby=pubdate) and [Ziqing Yang](https://scholar.google.com.hk/citations?user=cbYCaq4AAAAJ&hl=zh-CN)
 <!-- <br> -->
 
 <!--MSRA -->
-<img class="svg" src="/images/MSRA.png" width="60pt">MSRA, Natural Language Computing (NLC) Group, Beijing
+<!-- <img class="svg" src="/images/MSRA.png" width="60pt">MSRA, Natural Language Computing (NLC) Group, Beijing
 <br>
-- *Mar. 2024 - Present*, Research Intern, working with [Haoyang Huang](https://scholar.google.com/citations?user=nIS66toAAAAJ&hl=en) and [DongDong Zhang](https://scholar.google.com/citations?user=w2qu71oAAAAJ&hl=en)
+- *Mar. 2024 - Present*, Research Intern, working with [Haoyang Huang](https://scholar.google.com/citations?user=nIS66toAAAAJ&hl=en) and [DongDong Zhang](https://scholar.google.com/citations?user=w2qu71oAAAAJ&hl=en) -->
 <!-- <br> -->
 
 
