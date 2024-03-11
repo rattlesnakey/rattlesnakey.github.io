@@ -99,7 +99,7 @@ Currently, I am actively conducting research on their **interdisciplinary applic
 `Hengyuan Zhang`, Yanru Wu, Dawei Li, Zacc Yang, Rui Zhao, Yong Jiang, Fei Tan
 <!-- `Hengyuan Zhang`, et al -->
 
-[[Paper]](https://openreview.net/pdf/a9aa26a4c2daa719e35412a023f3f70e83a742eb.pdf) | [[Code]](https://anonymous.4open.science/r/CoFiTune-542C) | *Natural Language Processing, Finance* 
+[[Paper]](https://openreview.net/pdf/a9aa26a4c2daa719e35412a023f3f70e83a742eb.pdf) | [[Code]](https://anonymous.4open.science/r/CoFiTune-542C) | *Natural Language Processing, Text Generation, Finance* | *Conference*
 </div>
 </div>
 
@@ -111,7 +111,7 @@ Currently, I am actively conducting research on their **interdisciplinary applic
 `Hengyuan Zhang`, Zitao Liu, Shuyan Huang, Chenming Shang, Bojun Zhan, Yong Jiang
 
 
-[[Paper]](https://ns7kunkhuh.feishu.cn/file/NDbeb5JakoMDr9xzE76cP0NTnlQ) | [[Code]](https://anonymous.4open.science/r/LoReKT-C619/README.md) | *Data Mining, Education* 
+[[Paper]](https://ns7kunkhuh.feishu.cn/file/NDbeb5JakoMDr9xzE76cP0NTnlQ) | [[Code]](https://anonymous.4open.science/r/LoReKT-C619/README.md) | *Data Mining, Recommendation, Education* | *Journal*
 </div>
 </div>
 
@@ -122,7 +122,7 @@ Currently, I am actively conducting research on their **interdisciplinary applic
 
 `Hengyuan Zhang`, Zitao Liu, Chenming Shang, Dawei Li, Yong Jiang
 
-[[Paper]](https://ns7kunkhuh.feishu.cn/file/NNxxbNPxMoqVEyxgGcPcR4TynMf) | [[Code]](https://github.com/rattlesnakey/Q-MCKT) | *Data Mining, Education* 
+[[Paper]](https://ns7kunkhuh.feishu.cn/file/NNxxbNPxMoqVEyxgGcPcR4TynMf) | [[Code]](https://github.com/rattlesnakey/Q-MCKT) | *Data Mining, Recommendation, Education* | *Journal*
 </div>
 </div>
 
@@ -136,7 +136,7 @@ Currently, I am actively conducting research on their **interdisciplinary applic
 Chenming Shang, Shiji Zhou, `Hengyuan Zhang`, Xinzhe Ni, Yujiu Yang, Yuwang Wang
 
 
-[[Paper]](https://rattlesnakey.github.io/) | [[Code]](https://rattlesnakey.github.io/) | *Computer Vision, Cognitive Science*
+[[Paper]](https://rattlesnakey.github.io/) | [[Code]](https://rattlesnakey.github.io/) | *Computer Vision, Cognitive Science* | *Conference*
 </div>
 </div>
 
@@ -148,7 +148,7 @@ Chenming Shang, Shiji Zhou, `Hengyuan Zhang`, Xinzhe Ni, Yujiu Yang, Yuwang Wang
 Dawei Li, `Hengyuan Zhang`, Yanran Li, Shiping Yang 
 
 
-[[Paper]](https://arxiv.org/pdf/2310.13231v1.pdf) | [[Code]](https://github.com/David-Li0406/Script-based-Character-Understanding) | *Natural Language Processing, Cognitive Science*
+[[Paper]](https://arxiv.org/pdf/2310.13231v1.pdf) | [[Code]](https://github.com/David-Li0406/Script-based-Character-Understanding) | *Natural Language Processing, Cognitive Science* | *Conference*
 </div>
 </div>
 
@@ -160,7 +160,7 @@ Dawei Li, `Hengyuan Zhang`, Yanran Li, Shiping Yang
 `Hengyuan Zhang`, Dawei Li, Yanran Li, Chenming Shang, Chufan Shi, Yong Jiang
 
 
-[[Paper]](https://arxiv.org/abs/2306.06058) | [[Code]](https://github.com/rattlesnakey/Prompt-Contrastive-Def-Gen) | *Natural Language Processing, Education* 
+[[Paper]](https://arxiv.org/abs/2306.06058) | [[Code]](https://github.com/rattlesnakey/Prompt-Contrastive-Def-Gen) | *Natural Language Processing, Text Generation, Education* | *Conference*
 </div>
 </div>
 
@@ -173,7 +173,7 @@ Dawei Li, `Hengyuan Zhang`, Yanran Li, Shiping Yang
 `Hengyuan Zhang`\*, Dawei Li\*, Shiping Yang, Yanran Li
 
 
-[[Paper]](https://arxiv.org/abs/2210.00543) | [[Code]](https://github.com/rattlesnakey/Definition-Gneration-Contrastive) | *Natural Language Processing, Education* 
+[[Paper]](https://arxiv.org/abs/2210.00543) | [[Code]](https://github.com/rattlesnakey/Definition-Gneration-Contrastive) | *Natural Language Processing, Text Generation, Education* | *Conference*
 </div>
 </div>
 
@@ -185,7 +185,7 @@ Dawei Li, `Hengyuan Zhang`, Yanran Li, Shiping Yang
 
 Cunliang Kong, Yun Chen, `Hengyuan Zhang`, Liner Yang, Erhong Yang
 
-[[Paper]](https://arxiv.org/abs/2203.12926) | [[Code]](https://github.com/blcuicall/SimpDefiner) | *Natural Language Processing, Education* 
+[[Paper]](https://arxiv.org/abs/2203.12926) | [[Code]](https://github.com/blcuicall/SimpDefiner) | *Natural Language Processing, Text Generation, Education* | *Conference*
 </div>
 </div>
 
@@ -198,7 +198,7 @@ Cunliang Kong, Yun Chen, `Hengyuan Zhang`, Liner Yang, Erhong Yang
 Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong Yang
 
 
-[[Paper]](https://arxiv.org/abs/2204.07701) | [[Code]](https://github.com/blcuicall/SemEval2022-Task1-DM) | *Natural Language Processing, Education* 
+[[Paper]](https://arxiv.org/abs/2204.07701) | [[Code]](https://github.com/blcuicall/SemEval2022-Task1-DM) | *Natural Language Processing, Text Generation, Education* | *Conference*
 </div>
 </div>
 
