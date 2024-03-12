@@ -82,9 +82,9 @@ Currently, I am actively conducting research on their **interdisciplinary applic
 <!-- <br> -->
 
 <!--MSRA -->
-<img class="svg" src="/images/MSRA.png" width="60pt">MSRA, Natural Language Computing (NLC) Group, Beijing
+<!-- <img class="svg" src="/images/MSRA.png" width="60pt">MSRA, Natural Language Computing (NLC) Group, Beijing
 <br>
-- *Mar. 2024 - Present*, Research Intern, working with [Haoyang Huang](https://scholar.google.com/citations?user=nIS66toAAAAJ&hl=en) and [DongDong Zhang](https://scholar.google.com/citations?user=w2qu71oAAAAJ&hl=en)
+- *Mar. 2024 - Present*, Research Intern, working with [Haoyang Huang](https://scholar.google.com/citations?user=nIS66toAAAAJ&hl=en) and [DongDong Zhang](https://scholar.google.com/citations?user=w2qu71oAAAAJ&hl=en) -->
 <!-- <br> -->
 
 
@@ -111,7 +111,7 @@ Currently, I am actively conducting research on their **interdisciplinary applic
 `Hengyuan Zhang`, Zitao Liu, Shuyan Huang, Chenming Shang, Bojun Zhan, Yong Jiang
 
 
-[[Paper]](https://ns7kunkhuh.feishu.cn/file/NDbeb5JakoMDr9xzE76cP0NTnlQ) | [[Code]](https://anonymous.4open.science/r/LoReKT-C619/README.md) | *Data Mining, Recommendation, Education* | *Journal*
+[[Paper]](https://arxiv.org/pdf/2403.06725.pdf) | [[Code]](https://anonymous.4open.science/r/LoReKT-C619/README.md) | *Data Mining, Recommendation, Education* | *Journal*
 </div>
 </div>
 
