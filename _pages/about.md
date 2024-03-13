@@ -116,13 +116,13 @@ Currently, I am actively conducting research on their **interdisciplinary applic
 </div>
 
 <!-- TKDD -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint Feb. 2024</div><img src='images/Q-MCKT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint Mar. 2024</div><img src='images/Q-MCKT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **A Question-centric Multi-experts Contrastive Learning Framework for Improving the Accuracy and Interpretability of Deep Sequential Knowledge Tracing Models**
 
 `Hengyuan Zhang`, Zitao Liu, Chenming Shang, Dawei Li, Yong Jiang
 
-[[Paper]](https://ns7kunkhuh.feishu.cn/file/NNxxbNPxMoqVEyxgGcPcR4TynMf) | [[Code]](https://github.com/rattlesnakey/Q-MCKT) | *Data Mining, Recommendation, Education* | *Journal*
+[[Paper]](https://arxiv.org/pdf/2403.07322.pdf) | [[Code]](https://github.com/rattlesnakey/Q-MCKT) | *Data Mining, Recommendation, Education* | *Journal*
 </div>
 </div>
 
