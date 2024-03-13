@@ -153,7 +153,7 @@ Dawei Li, `Hengyuan Zhang`, Yanran Li, Shiping Yang
 </div>
 
 <!-- ACL BEA workshop -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023 BEA Workshop</div><img src='images/prompt-contrast-def-gen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023 BEA</div><img src='images/prompt-contrast-def-gen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Assisting Language Learners: Automated Trans-Lingual Definition Generation via Contrastive Prompt Learning**
 
