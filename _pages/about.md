@@ -207,7 +207,7 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 <br>
 <span class='anchor' id='-honor'></span>
 
-# 🏅 Honors and Awards
+# 🏅 Selected Honors and Awards
 👉  Tsinghua University College Comprehensive First Class Scholarship (`院综合一等奖学金`), *2023*
 
 👉  National Scholarship (`国家奖学金`), *2019*, *2020*, *2021*
@@ -229,9 +229,14 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 👉  Excellent Volunteer in BLCU, *2020*
 
 
-<span class='anchor' id='miscellaneous'></span>
+<span class='anchor' id='-miscellaneous'></span>
 # 📌 Miscellaneous
-- I am actually a person with a strong desire to share. In my spare time, I like writing blogs and sharing experiences on Redbook, [Wechat Official account](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0NTI3ODI2OQ==&scene=124#wechat_redirect) and [bilibili](https://space.bilibili.com/14709944?spm_id_from=333.1007.0.0) (阿源的NLP碎碎念).
+- I am actually a person with a strong desire to share. In my spare time, I like writing blogs and sharing experiences on Redbook, [Wechat Official Account](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0NTI3ODI2OQ==&scene=124#wechat_redirect) and [Bilibili](https://space.bilibili.com/14709944?spm_id_from=333.1007.0.0) (阿源的NLP碎碎念). The selected blogs are as follows:
+  - [The Key Components in Transformer](https://mp.weixin.qq.com/s/hXMEQ7ZPF53-iyOzZRXXZg)
+  - [The Evaluation of Instruction Following](https://mp.weixin.qq.com/s/m3RHJ9q-RCkGL33AewdDUg)
+  - [Skill Localization of Large Language Model](https://mp.weixin.qq.com/s/x61tHD896Leoz8DO-0weAg)
+  - [iMAge-guided Text GeneratIon with CLIP](https://mp.weixin.qq.com/s/fQ6t96aqAgvRDAIjIt9QYA)
+  - [The Difference between GLM and UL2 Architectures](https://mp.weixin.qq.com/s/x-BGp-XA9PI07oyEQkrvGw) 
 - I used to be a guitarist 🎸 in a band when I was in high school. Also, I love playing badminton 🏸, table tennis 🏓 and soccer ⚽️. During holidays, I will also seize any opportunity to travel around the world  ⛳️.
 
 <div style="display: flex;">
@@ -245,3 +250,9 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
   <img src="images/life2.png" alt="Image 1" width="50%" />
   <img src="images/life4.png" alt="Image 2" width="50%" />
 </div>
+
+
+<!-- <span class='anchor' id='-posts'></span>
+
+# 📜 Selected Posts -->
+
