@@ -38,15 +38,15 @@ Currently, I am actively conducting research on their **interdisciplinary applic
 # 🎓 Education
 <img class="svg" src="/images/tsinghua-logo.png" width="50pt"> Tsinghua University 
 <br>
-- *Aug. 2022 - Present*, Master's Degree in Electronic Information, Shenzhen International Graduate School, GPA 3.86 / 4.0
-
+- *Aug. 2022 - Present*, Master's Degree in Electronic Information, GPA 3.86 / 4.0
+ <!-- Shenzhen International Graduate School,  -->
 <!-- <div><br></div> -->
 <!-- <br> -->
 
 <img class="svg" src="/images/BLCU_logo.png" width="50pt"> Beijing Language and Culture University
 <br>
-- *Sept. 2018 - Jul. 2022*, Bachelor’s Degree in Language Intelligence and Technology, Computer Science School, GPA 3.9 / 4.0
-
+- *Sept. 2018 - Jul. 2022*, Bachelor’s Degree in Language Intelligence and Technology, GPA 3.9 / 4.0
+<!-- Computer Science School, -->
 <span class='anchor' id='-intern'></span>
 
 # 💻 Interships
@@ -82,7 +82,7 @@ Currently, I am actively conducting research on their **interdisciplinary applic
 <!-- <br> -->
 
 <!--MSRA -->
-<!-- <img class="svg" src="/images/MSRA.png" width="60pt">MSRA, Natural Language Computing (NLC) Group, Beijing
+<!-- <img class="svg" src="/images/MSRA.png" width="60pt">Microsoft Research Asia, Natural Language Computing (NLC) Group, Beijing
 <br>
 - *Mar. 2024 - Present*, Research Intern, working with [Haoyang Huang](https://scholar.google.com/citations?user=nIS66toAAAAJ&hl=en) and [DongDong Zhang](https://scholar.google.com/citations?user=w2qu71oAAAAJ&hl=en) -->
 <!-- <br> -->
@@ -99,7 +99,7 @@ Currently, I am actively conducting research on their **interdisciplinary applic
 `Hengyuan Zhang`, Yanru Wu, Dawei Li, Zacc Yang, Rui Zhao, Yong Jiang, Fei Tan
 <!-- `Hengyuan Zhang`, et al -->
 
-[[Paper]](https://openreview.net/pdf/a9aa26a4c2daa719e35412a023f3f70e83a742eb.pdf) | [[Code]](https://anonymous.4open.science/r/CoFiTune-542C) | *Natural Language Processing, Text Generation, Finance* | *Conference*
+[[Paper]](https://arxiv.org/pdf/2404.10306.pdf) | [[Code]](https://github.com/rattlesnakey/CoFiTune) | *Natural Language Processing, Text Generation, Finance* | *Conference*
 </div>
 </div>
 
@@ -128,15 +128,28 @@ Currently, I am actively conducting research on their **interdisciplinary applic
 
 # 📝 Publications
 \* denotes equal contribution
+<!-- CogSci CBM -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2024</div><img src='images/CogSci.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Understanding Multimodal Deep Neural Networks: A Concept Selection View**
+
+Chenming Shang, `Hengyuan Zhang`, Hao Wen, Yuwang Wang
+
+
+[[Paper]](https://arxiv.org/pdf/2404.08964.pdf) | *Computer Vision, Cognitive Science* | *CCF-B Conference*
+</div>
+</div>
+
+
 <!-- CVPR Res-CBM -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/Res-CBM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Incremental Residual Concept Bottleneck Model**
 
-Chenming Shang, Shiji Zhou, `Hengyuan Zhang`, Xinzhe Ni, Yujiu Yang, Yuwang Wang
+Chenming Shang, Shiji Zhou, `Hengyuan Zhang`, Yujiu Yang, Xinzhe Ni, Yuwang Wang
 
 
-[[Paper]](https://rattlesnakey.github.io/) | [[Code]](https://rattlesnakey.github.io/) | *Computer Vision, Cognitive Science* | *Conference*
+[[Paper]](https://arxiv.org/pdf/2404.08978.pdf) | [[Code]](https://github.com/HelloSCM/Res-CBM) | *Computer Vision, Cognitive Science* | *CCF-A Conference*
 </div>
 </div>
 
@@ -148,7 +161,7 @@ Chenming Shang, Shiji Zhou, `Hengyuan Zhang`, Xinzhe Ni, Yujiu Yang, Yuwang Wang
 Dawei Li, `Hengyuan Zhang`, Yanran Li, Shiping Yang 
 
 
-[[Paper]](https://arxiv.org/pdf/2310.13231v1.pdf) | [[Code]](https://github.com/David-Li0406/Script-based-Character-Understanding) | *Natural Language Processing, Cognitive Science* | *Conference*
+[[Paper]](https://arxiv.org/pdf/2310.13231v1.pdf) | [[Code]](https://github.com/David-Li0406/Script-based-Character-Understanding) | *Natural Language Processing, Cognitive Science* | *CCF-B Conference*
 </div>
 </div>
 
@@ -160,7 +173,7 @@ Dawei Li, `Hengyuan Zhang`, Yanran Li, Shiping Yang
 `Hengyuan Zhang`, Dawei Li, Yanran Li, Chenming Shang, Chufan Shi, Yong Jiang
 
 
-[[Paper]](https://arxiv.org/abs/2306.06058) | [[Code]](https://github.com/rattlesnakey/Prompt-Contrastive-Def-Gen) | *Natural Language Processing, Text Generation, Education* | *Conference*
+[[Paper]](https://arxiv.org/abs/2306.06058) | [[Code]](https://github.com/rattlesnakey/Prompt-Contrastive-Def-Gen) | *Natural Language Processing, Text Generation, Education* | *CCF-A Conference*
 </div>
 </div>
 
@@ -185,7 +198,7 @@ Dawei Li, `Hengyuan Zhang`, Yanran Li, Shiping Yang
 
 Cunliang Kong, Yun Chen, `Hengyuan Zhang`, Liner Yang, Erhong Yang
 
-[[Paper]](https://arxiv.org/abs/2203.12926) | [[Code]](https://github.com/blcuicall/SimpDefiner) | *Natural Language Processing, Text Generation, Education* | *Conference*
+[[Paper]](https://arxiv.org/abs/2203.12926) | [[Code]](https://github.com/blcuicall/SimpDefiner) | *Natural Language Processing, Text Generation, Education* | *CCF-A Conference*
 </div>
 </div>
 
@@ -198,7 +211,7 @@ Cunliang Kong, Yun Chen, `Hengyuan Zhang`, Liner Yang, Erhong Yang
 Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong Yang
 
 
-[[Paper]](https://arxiv.org/abs/2204.07701) | [[Code]](https://github.com/blcuicall/SemEval2022-Task1-DM) | *Natural Language Processing, Text Generation, Education* | *Conference*
+[[Paper]](https://arxiv.org/abs/2204.07701) | [[Code]](https://github.com/blcuicall/SemEval2022-Task1-DM) | *Natural Language Processing, Text Generation, Education* | *CCF-B Conference*
 </div>
 </div>
 
@@ -232,6 +245,8 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 <span class='anchor' id='-miscellaneous'></span>
 # 📌 Miscellaneous
 - I am actually a person with a strong desire to share. In my spare time, I like writing blogs and sharing experiences on Redbook, [Wechat Official Account](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0NTI3ODI2OQ==&scene=124#wechat_redirect) and [Bilibili](https://space.bilibili.com/14709944?spm_id_from=333.1007.0.0) (阿源的NLP碎碎念). The selected blogs are as follows:
+  - [Linguistic Regions in the Large Language Model](https://mp.weixin.qq.com/s/-FHKqUieqJuO3VoTozS4Mw) 
+  - [Prevent Catastrophic Forgetting via SoftMask Mechanism](https://mp.weixin.qq.com/s/udjiYzt7cwCdlH1a98ylbA)
   - [The Key Components in Transformer](https://mp.weixin.qq.com/s/hXMEQ7ZPF53-iyOzZRXXZg)
   - [The Evaluation of Instruction Following](https://mp.weixin.qq.com/s/m3RHJ9q-RCkGL33AewdDUg)
   - [Skill Localization of Large Language Model](https://mp.weixin.qq.com/s/x61tHD896Leoz8DO-0weAg)
