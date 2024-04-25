@@ -18,11 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 🤓 Hey folks! I am Hengyuan Zhang (张恒源).
-I am a master student at Tsinghua University from August 2022, under the supervision of Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN). I received my Bachelor of Science degree at Beijing Language and Culture University (北京语言大学) in 2022. 
+I am a master student at Tsinghua University from August 2022, under the supervision of Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN). 
+<!-- I received my Bachelor of Science degree at Beijing Language and Culture University (北京语言大学) in 2022.  -->
 <!-- During my undergraduate study, I interned at [AICLR](https://yuyanziyuan.blcu.edu.cn/index.htm) (语言资源高精尖创新中心) and Xiaomi AI Lab, where I was fortunate to work with Prof. [Liner Yang](https://yuyanziyuan.blcu.edu.cn/info/1032/2481.htm) and Dr. [Yanran Li](https://www.aminer.cn/profile/Yanran%20Li/53f42c51dabfaee02ac50cf3). -->
 <!-- <br> -->
-My primary research interests are in the field of **Natural Language Processing** and **Data Mining**. 
-Currently, I am actively conducting research on their **interdisciplinary applications (e.g., Finance, Education and Cognitive Science)**. I am also exploring the possibility of **enrolling in a Ph.D. program for the Fall of 2025**. If there are any opportunities for collaboration, please feel free to reach out to me at your convenience.
+My research interests primarily revolve around domain-specific studies (e.g., Finance, Education, and Cognitive Science) in **Natural Language Processing (NLP)** and **Data Mining**.
+<!-- My primary research interests are in the field of **Natural Language Processing** and **Data Mining**.  -->
+<!-- Currently, I am actively conducting research on their **interdisciplinary applications (e.g., Finance, Education and Cognitive Science)**.  -->
+I am also exploring the possibility of **enrolling in a Ph.D. program for the Fall of 2025**. If there are any opportunities for collaboration, please feel free to reach out to me at your convenience.
 
 
 
@@ -36,14 +39,14 @@ Currently, I am actively conducting research on their **interdisciplinary applic
 <span class='anchor' id='-edu'></span>
 
 # 🎓 Education
-<img class="svg" src="/images/tsinghua-logo.png" width="50pt"> Tsinghua University 
+<img class="svg" src="/images/tsinghua-logo.png" width="50pt"> Tsinghua University (清华大学)
 <br>
 - *Aug. 2022 - Present*, Master's Degree in Electronic Information, GPA 3.86 / 4.0
  <!-- Shenzhen International Graduate School,  -->
 <!-- <div><br></div> -->
 <!-- <br> -->
 
-<img class="svg" src="/images/BLCU_logo.png" width="50pt"> Beijing Language and Culture University
+<img class="svg" src="/images/BLCU_logo.png" width="50pt"> Beijing Language and Culture University (北京语言大学)
 <br>
 - *Sept. 2018 - Jul. 2022*, Bachelor’s Degree in Language Intelligence and Technology, GPA 3.9 / 4.0
 <!-- Computer Science School, -->
