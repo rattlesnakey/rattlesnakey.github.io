@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 🤓 Hey folks! I am Hengyuan Zhang (张恒源).
-I am a master student at Tsinghua University from August 2022, under the supervision of Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN). 
+I am a master's student at Tsinghua University from August 2022, under the supervision of Prof. [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN). 
 <!-- I received my Bachelor of Science degree at Beijing Language and Culture University (北京语言大学) in 2022.  -->
 <!-- During my undergraduate study, I interned at [AICLR](https://yuyanziyuan.blcu.edu.cn/index.htm) (语言资源高精尖创新中心) and Xiaomi AI Lab, where I was fortunate to work with Prof. [Liner Yang](https://yuyanziyuan.blcu.edu.cn/info/1032/2481.htm) and Dr. [Yanran Li](https://www.aminer.cn/profile/Yanran%20Li/53f42c51dabfaee02ac50cf3). -->
 <!-- <br> -->
