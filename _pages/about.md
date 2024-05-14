@@ -22,7 +22,9 @@ I am a master's student at Tsinghua University from August 2022, under the super
 <!-- I received my Bachelor of Science degree at Beijing Language and Culture University (北京语言大学) in 2022.  -->
 <!-- During my undergraduate study, I interned at [AICLR](https://yuyanziyuan.blcu.edu.cn/index.htm) (语言资源高精尖创新中心) and Xiaomi AI Lab, where I was fortunate to work with Prof. [Liner Yang](https://yuyanziyuan.blcu.edu.cn/info/1032/2481.htm) and Dr. [Yanran Li](https://www.aminer.cn/profile/Yanran%20Li/53f42c51dabfaee02ac50cf3). -->
 <!-- <br> -->
-My research interests primarily revolve around domain-specific studies (e.g., Finance, Education, and Cognitive Science) in **Natural Language Processing (NLP)** and **Data Mining**.
+<!-- My research interests primarily revolve around domain-specific studies (e.g., Finance, Education, and Cognitive Science) in **Natural Language Processing (NLP)** and **Data Mining**. -->
+My current research interests primarily focus on applying **Natural Language Processing (NLP)** and **Data Mining** in domain-specific studies (e.g., Finance, Education, and Cognitive Science), hopefully in an interpretable manner.
+<!-- My current research interests primarily revolve around domain-specific studies (e.g., Finance, Education, and Cognitive Science) in **Natural Language Processing (NLP)** and **Data Mining**, hopefully with a focus on achieving high interpretability. -->
 <!-- My primary research interests are in the field of **Natural Language Processing** and **Data Mining**.  -->
 <!-- Currently, I am actively conducting research on their **interdisciplinary applications (e.g., Finance, Education and Cognitive Science)**.  -->
 I am also exploring the possibility of **enrolling in a Ph.D. program for the Fall of 2025**. If there are any opportunities for collaboration, please feel free to reach out to me at your convenience.
@@ -107,6 +109,18 @@ I am also exploring the possibility of **enrolling in a Ph.D. program for the Fa
 </div>
 </div>
 
+
+<!-- TKDD -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint Mar. 2024</div><img src='images/Q-MCKT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**A Question-centric Multi-experts Contrastive Learning Framework for Improving the Accuracy and Interpretability of Deep Sequential Knowledge Tracing Models**
+
+`Hengyuan Zhang`, Zitao Liu, Chenming Shang, Dawei Li, Yong Jiang
+
+[[Paper]](https://arxiv.org/pdf/2403.07322.pdf) | [[Code]](https://github.com/rattlesnakey/Q-MCKT) | *Data Mining, Recommendation, Education* | *Journal*
+</div>
+</div>
+
 <!-- KBS -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint Mar. 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -119,16 +133,6 @@ I am also exploring the possibility of **enrolling in a Ph.D. program for the Fa
 </div>
 </div>
 
-<!-- TKDD -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint Mar. 2024</div><img src='images/Q-MCKT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**A Question-centric Multi-experts Contrastive Learning Framework for Improving the Accuracy and Interpretability of Deep Sequential Knowledge Tracing Models**
-
-`Hengyuan Zhang`, Zitao Liu, Chenming Shang, Dawei Li, Yong Jiang
-
-[[Paper]](https://arxiv.org/pdf/2403.07322.pdf) | [[Code]](https://github.com/rattlesnakey/Q-MCKT) | *Data Mining, Recommendation, Education* | *Journal*
-</div>
-</div>
 
 # 📝 Publications
 \* denotes equal contribution
