@@ -97,19 +97,6 @@ I am also exploring the possibility of **enrolling in a Ph.D. program for the Fa
 <span class='anchor' id='-pub'></span>
 
 # 📚 Preprint
-<!-- ACL 2024 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint Feb. 2024</div><img src='images/CoFiTune.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Balancing Speciality and Versatility: a Coarse to Fine Framework for Supervised Fine-tuning Large Language Model**
-
-`Hengyuan Zhang`, Yanru Wu, Dawei Li, Zacc Yang, Rui Zhao, Yong Jiang, Fei Tan
-<!-- `Hengyuan Zhang`, et al -->
-
-[[Paper]](https://arxiv.org/pdf/2404.10306.pdf) | [[Code]](https://github.com/rattlesnakey/CoFiTune) | *Natural Language Processing, Text Generation, Finance* | *Conference*
-</div>
-</div>
-
-
 <!-- TKDD -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint Mar. 2024</div><img src='images/Q-MCKT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -136,12 +123,25 @@ I am also exploring the possibility of **enrolling in a Ph.D. program for the Fa
 
 # 📝 Publications
 \* denotes equal contribution
+
+<!-- ACL 2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/CoFiTune.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Balancing Speciality and Versatility: a Coarse to Fine Framework for Supervised Fine-tuning Large Language Model**
+
+`Hengyuan Zhang`, Yanru Wu, Dawei Li, Zacc Yang, Rui Zhao, Yong Jiang, Fei Tan
+<!-- `Hengyuan Zhang`, et al -->
+
+[[Paper]](https://arxiv.org/pdf/2404.10306.pdf) | [[Code]](https://github.com/rattlesnakey/CoFiTune) | *Natural Language Processing, Text Generation* | *CCF-A Conference*
+</div>
+</div>
+
 <!-- CogSci CBM -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2024</div><img src='images/CogSci.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Understanding Multimodal Deep Neural Networks: A Concept Selection View**
 
-Chenming Shang, `Hengyuan Zhang`, Hao Wen, Yuwang Wang
+Chenming Shang, `Hengyuan Zhang`, Hao Wen, Yujiu Yang
 
 
 [[Paper]](https://arxiv.org/pdf/2404.08964.pdf) | *Computer Vision, Cognitive Science* | *CCF-B Conference*
