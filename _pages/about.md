@@ -62,9 +62,9 @@ I am also exploring the possibility of **enrolling in a Ph.D. program for the Fa
 
 
 <!-- baidu -->
-<img class="svg" src="/images/baidu.png" width="60pt">Baidu, Search Strategy Lab, Beijing
+<!-- <img class="svg" src="/images/baidu.png" width="60pt">Baidu, Search Strategy Lab, Beijing
 <br>
-- *Mar. 2021 - Jul. 2021*, Engineering Intern, working with Ge Chen
+- *Mar. 2021 - Jul. 2021*, Engineering Intern, working with Ge Chen -->
 
 <!-- <br> -->
 <!-- xiaomi -->
