@@ -58,7 +58,7 @@ I am also exploring the possibility of **enrolling in a Ph.D. program for the Fa
 <!-- icall -->
 <img class="svg" src="/images/icall.png" width="60pt">Advanced Innovation Center for Language Resources, Beijing 
 <br>
-- *Mar. 2019 - Jul. 2022*, Research Assistant, working with [Cunliang Kong](https://scholar.google.com/citations?hl=zh-CN&user=XMkdWRwAAAAJ&view_op=list_works&sortby=pubdate) and [Liner Yang](https://tianlinyang.github.io/index_en.html)
+- *Mar. 2019 - Oct. 2021*, Research Assistant, working with [Cunliang Kong](https://scholar.google.com/citations?hl=zh-CN&user=XMkdWRwAAAAJ&view_op=list_works&sortby=pubdate) and [Liner Yang](https://tianlinyang.github.io/index_en.html)
 
 
 <!-- baidu -->
@@ -96,30 +96,6 @@ I am also exploring the possibility of **enrolling in a Ph.D. program for the Fa
 
 <span class='anchor' id='-pub'></span>
 
-# 📚 Preprint
-<!-- TKDD -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint Mar. 2024</div><img src='images/Q-MCKT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**A Question-centric Multi-experts Contrastive Learning Framework for Improving the Accuracy and Interpretability of Deep Sequential Knowledge Tracing Models**
-
-`Hengyuan Zhang`, Zitao Liu, Chenming Shang, Dawei Li, Yong Jiang
-
-[[Paper]](https://arxiv.org/pdf/2403.07322.pdf) | [[Code]](https://github.com/rattlesnakey/Q-MCKT) | *Data Mining, Recommendation, Education* | *Journal*
-</div>
-</div>
-
-<!-- KBS -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint Mar. 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Improving Low-Resource Knowledge Tracing Tasks by Supervised Pre-training and Importance Mechanism Fine-tuning**
-
-`Hengyuan Zhang`, Zitao Liu, Shuyan Huang, Chenming Shang, Bojun Zhan, Yong Jiang
-
-
-[[Paper]](https://arxiv.org/pdf/2403.06725.pdf) | [[Code]](https://anonymous.4open.science/r/LoReKT-C619/README.md) | *Data Mining, Recommendation, Education* | *Journal*
-</div>
-</div>
-
 
 # 📝 Publications
 \* denotes equal contribution
@@ -133,6 +109,17 @@ I am also exploring the possibility of **enrolling in a Ph.D. program for the Fa
 <!-- `Hengyuan Zhang`, et al -->
 
 [[Paper]](https://arxiv.org/pdf/2404.10306.pdf) | [[Code]](https://github.com/rattlesnakey/CoFiTune) | *Natural Language Processing, Text Generation* | *CCF-A Conference*
+</div>
+</div>
+
+<!-- TKDD -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD 2024</div><img src='images/Q-MCKT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**A Question-centric Multi-experts Contrastive Learning Framework for Improving the Accuracy and Interpretability of Deep Sequential Knowledge Tracing Models**
+
+`Hengyuan Zhang`, Zitao Liu, Chenming Shang, Dawei Li, Yong Jiang
+
+[[Paper]](https://arxiv.org/pdf/2403.07322.pdf) | [[Code]](https://github.com/rattlesnakey/Q-MCKT) | *Data Mining, Recommendation, Education* | *CCF-B Journal*
 </div>
 </div>
 
@@ -223,6 +210,20 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 </div>
 </div>
 
+
+# 📚 Preprint
+
+<!-- KBS -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint Mar. 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Improving Low-Resource Knowledge Tracing Tasks by Supervised Pre-training and Importance Mechanism Fine-tuning**
+
+`Hengyuan Zhang`, Zitao Liu, Shuyan Huang, Chenming Shang, Bojun Zhan, Yong Jiang
+
+
+[[Paper]](https://arxiv.org/pdf/2403.06725.pdf) | [[Code]](https://anonymous.4open.science/r/LoReKT-C619/README.md) | *Data Mining, Recommendation, Education* | *Journal*
+</div>
+</div>
 
 
 <br>
