@@ -37,28 +37,29 @@ I am also exploring the possibility of **enrolling in a Ph.D. program for the Fa
 
   
 
-
+<!-- 
 <span class='anchor' id='-edu'></span>
 
 # 🎓 Education
 <img class="svg" src="/images/tsinghua-logo.png" width="50pt"> Tsinghua University (清华大学)
 <br>
-- *Aug. 2022 - Present*, Master's Degree in Electronic Information, GPA 3.86 / 4.0
+- *Aug. 2022 - Present*, Master's Degree in Electronic Information, GPA 3.86 / 4.0 -->
+
  <!-- Shenzhen International Graduate School,  -->
 <!-- <div><br></div> -->
 <!-- <br> -->
 
-<img class="svg" src="/images/BLCU_logo.png" width="50pt"> Beijing Language and Culture University (北京语言大学)
+<!-- <img class="svg" src="/images/BLCU_logo.png" width="50pt"> Beijing Language and Culture University (北京语言大学)
 <br>
 - *Sept. 2018 - Jul. 2022*, Bachelor’s Degree in Language Intelligence and Technology, GPA 3.9 / 4.0
-<!-- Computer Science School, -->
-<span class='anchor' id='-intern'></span>
+
+<span class='anchor' id='-intern'></span> -->
 
 # 💻 Interships
 <!-- icall -->
-<img class="svg" src="/images/icall.png" width="60pt">Advanced Innovation Center for Language Resources, Beijing 
+<!-- <img class="svg" src="/images/icall.png" width="60pt">Advanced Innovation Center for Language Resources, Beijing 
 <br>
-- *Mar. 2019 - Oct. 2021*, Research Assistant, working with [Cunliang Kong](https://scholar.google.com/citations?hl=zh-CN&user=XMkdWRwAAAAJ&view_op=list_works&sortby=pubdate) and [Liner Yang](https://tianlinyang.github.io/index_en.html)
+- *Mar. 2019 - Oct. 2021*, Research Assistant, working with [Cunliang Kong](https://scholar.google.com/citations?hl=zh-CN&user=XMkdWRwAAAAJ&view_op=list_works&sortby=pubdate) and [Liner Yang](https://tianlinyang.github.io/index_en.html) -->
 
 
 <!-- baidu -->
