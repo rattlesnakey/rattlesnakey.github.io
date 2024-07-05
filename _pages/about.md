@@ -249,7 +249,7 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 
 👉  Xiaomi Third Hacker Marathon Excellence, *2022*
 
-👉  Excellent Volunteer in BLCU, *2020*
+👉  Excellent Volunteer, *2020*
 
 
 <span class='anchor' id='-miscellaneous'></span>
