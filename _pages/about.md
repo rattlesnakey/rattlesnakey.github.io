@@ -120,7 +120,7 @@ I am also exploring the possibility of **enrolling in a Ph.D. program for the Fa
 
 `Hengyuan Zhang`, Zitao Liu, Chenming Shang, Dawei Li, Yong Jiang
 
-[[Paper]](https://arxiv.org/pdf/2403.07322.pdf) | [[Code]](https://github.com/rattlesnakey/Q-MCKT) | *Data Mining, Recommendation, Education* | *JCR Q2 / CCF-B Journal*
+[[Paper]](https://arxiv.org/pdf/2403.07322.pdf) | [[Code]](https://github.com/rattlesnakey/Q-MCKT) | *Data Mining, Recommendation, Education* | *JCR Q1 Journal*
 </div>
 </div>
 
