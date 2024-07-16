@@ -71,7 +71,7 @@ I am also exploring the possibility of **enrolling in a Ph.D. program for the Fa
 <!-- xiaomi -->
 <img class="svg" src="/images/xiaomi-logo.png" width="30pt"> Xiaomi, AI Lab, Beijing
 <br>
-- *Mar. 2022 - Sept. 2022*, Research Intern, working with Tong Chen and [Yanran Li](https://www.aminer.cn/profile/Yanran%20Li/53f42c51dabfaee02ac50cf3)
+- *Mar. 2022 - Sept. 2022*, Research Intern, working with Tong Chen and [Yanran Li](https://scholar.google.com/citations?user=URdBBQUAAAAJ&hl=zh-CN)
 
 
 <!-- <br> -->
