@@ -51,10 +51,8 @@ I am also exploring the possibility of **enrolling in a Ph.D. program for the Fa
 
 <!-- <img class="svg" src="/images/BLCU_logo.png" width="50pt"> Beijing Language and Culture University (北京语言大学)
 <br>
-- *Sept. 2018 - Jul. 2022*, Bachelor’s Degree in Language Intelligence and Technology, GPA 3.9 / 4.0
-
-<span class='anchor' id='-intern'></span> -->
-
+- *Sept. 2018 - Jul. 2022*, Bachelor’s Degree in Language Intelligence and Technology, GPA 3.9 / 4.0 -->
+<span class='anchor' id='-intern'></span>
 # 💻 Interships
 <!-- icall -->
 <!-- <img class="svg" src="/images/icall.png" width="60pt">Advanced Innovation Center for Language Resources, Beijing 
