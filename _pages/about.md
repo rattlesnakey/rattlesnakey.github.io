@@ -100,7 +100,7 @@ I am also exploring the possibility of **enrolling in a Ph.D. program for the Fa
 \* denotes equal contribution
 
 <!-- ACL 2024 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/CoFiTune.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/CoFiTune.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Balancing Speciality and Versatility: a Coarse to Fine Framework for Supervised Fine-tuning Large Language Model**
 
@@ -148,7 +148,7 @@ Chenming Shang, Shiji Zhou, `Hengyuan Zhang`, Yujiu Yang, Xinzhe Ni, Yuwang Wang
 </div>
 
 <!-- emnlp character -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023 Main Conference</div><img src='images/emnlp2023-character.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/emnlp2023-character.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Multi-level Contrastive Learning for Script-based Character Understanding**
 
@@ -186,7 +186,7 @@ Dawei Li, `Hengyuan Zhang`, Yanran Li, Shiping Yang
 
 
 <!-- ACL 2022 multitask -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022 Main Conference</div><img src='images/multitask-def-gen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='images/multitask-def-gen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Multitasking Framework for Unsupervised Simple Definition Generation**
 
