@@ -95,9 +95,30 @@ I am also exploring the possibility of **enrolling in a Ph.D. program for the Fa
 
 <span class='anchor' id='-pub'></span>
 
+<!-- # 📚 Preprint -->
+
+<!-- KBS -->
+
+
+<!-- # 📚 Preprint -->
+
+
 
 # 📝 Publications
-\* denotes equal contribution
+<!-- \* denotes equal contribution -->
+
+<!-- NAACL 2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/ShifCon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**ShifCon: Enhancing Non-Dominant Language Capabilities with a Shift-based Contrastive Framework**
+
+`Hengyuan Zhang`, Chenming Shang, Shiping Yang, Sizhe Wang, Dongdong Zhang, Feng Yao, Renliang Sun, Yiyao Yu, Yujiu Yang, Furu Wei
+
+
+[Paper] Coming soon | [Code] Coming soon | *Natural Language Processing, Multilingualism* | *Conference Preprint*
+</div>
+</div>
+
 
 <!-- ACL 2024 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/CoFiTune.png' alt="sym" width="100%"></div></div>
@@ -121,6 +142,19 @@ I am also exploring the possibility of **enrolling in a Ph.D. program for the Fa
 [[Paper]](https://arxiv.org/pdf/2403.07322.pdf) | [[Code]](https://github.com/rattlesnakey/Q-MCKT) | *Data Mining, Recommendation, Education* | *JCR Q1 Journal*
 </div>
 </div>
+
+<!-- KBS -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Improving Low-Resource Knowledge Tracing Tasks by Supervised Pre-training and Importance Mechanism Fine-tuning**
+
+`Hengyuan Zhang`, Zitao Liu, Shuyan Huang, Chenming Shang, Bojun Zhan, Yong Jiang
+
+
+[[Paper]](https://arxiv.org/pdf/2403.06725.pdf) | [[Code]](https://anonymous.4open.science/r/LoReKT-C619/README.md) | *Data Mining, Recommendation, Education* | *Journal Preprint*
+</div>
+</div>
+
 
 <!-- CogSci CBM -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2024</div><img src='images/CogSci.png' alt="sym" width="100%"></div></div>
@@ -146,6 +180,8 @@ Chenming Shang, Shiji Zhou, `Hengyuan Zhang`, Yujiu Yang, Xinzhe Ni, Yuwang Wang
 [[Paper]](https://arxiv.org/pdf/2404.08978.pdf) | [[Code]](https://github.com/HelloSCM/Res-CBM) | *Computer Vision, Cognitive Science* | *CCF-A Conference*
 </div>
 </div>
+
+
 
 <!-- emnlp character -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/emnlp2023-character.png' alt="sym" width="100%"></div></div>
@@ -177,7 +213,7 @@ Dawei Li, `Hengyuan Zhang`, Yanran Li, Shiping Yang
 <div class='paper-box-text' markdown="1">
 **Fine-grained Contrastive Learning for Definition Generation**
 
-`Hengyuan Zhang`\*, Dawei Li\*, Shiping Yang, Yanran Li
+`Hengyuan Zhang`, Dawei Li, Shiping Yang, Yanran Li
 
 
 [[Paper]](https://arxiv.org/abs/2210.00543) | [[Code]](https://github.com/rattlesnakey/Definition-Gneration-Contrastive) | *Natural Language Processing, Text Generation, Education* | *Conference*
@@ -210,26 +246,14 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 </div>
 
 
-# 📚 Preprint
 
-<!-- KBS -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint Mar. 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Improving Low-Resource Knowledge Tracing Tasks by Supervised Pre-training and Importance Mechanism Fine-tuning**
-
-`Hengyuan Zhang`, Zitao Liu, Shuyan Huang, Chenming Shang, Bojun Zhan, Yong Jiang
-
-
-[[Paper]](https://arxiv.org/pdf/2403.06725.pdf) | [[Code]](https://anonymous.4open.science/r/LoReKT-C619/README.md) | *Data Mining, Recommendation, Education* | *Journal*
-</div>
-</div>
 
 
 <br>
 <span class='anchor' id='-honor'></span>
 
 # 🏅 Selected Honors and Awards
-👉  Tsinghua University College Comprehensive First Class Scholarship (`院综合一等奖学金`), *2023*
+👉  Tsinghua University College Comprehensive First Class Scholarship (`综合一等奖学金`), *2023*
 
 👉  National Scholarship (`国家奖学金`), *2019*, *2020*, *2021*
 
