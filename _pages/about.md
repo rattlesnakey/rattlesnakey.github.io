@@ -112,7 +112,7 @@ I am also exploring the possibility of **enrolling in a Ph.D. program for the Fa
 <div class='paper-box-text' markdown="1">
 **ShifCon: Enhancing Non-Dominant Language Capabilities with a Shift-based Contrastive Framework**
 
-`Hengyuan Zhang`, Chenming Shang, Shiping Yang, Sizhe Wang, Dongdong Zhang, Feng Yao, Renliang Sun, Yiyao Yu, Yujiu Yang, Furu Wei
+`Hengyuan Zhang`, Chenming Shang, Sizhe Wang, Dongdong Zhang, Feng Yao, Renliang Sun, Yiyao Yu, Yujiu Yang, Furu Wei
 
 
 [Paper] Coming soon | [Code] Coming soon | *Natural Language Processing, Multilingualism* | *Conference Preprint*
