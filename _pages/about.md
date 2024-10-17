@@ -115,7 +115,19 @@ I am also exploring the possibility of **enrolling in a Ph.D. program for the Fa
 `Hengyuan Zhang`, Chenming Shang, Sizhe Wang, Dongdong Zhang, Feng Yao, Renliang Sun, Yiyao Yu, Yujiu Yang, Furu Wei
 
 
-[Paper] Coming soon | [Code] Coming soon | *Natural Language Processing, Multilingualism* | *Conference Preprint*
+[Paper] | [Code] | *Natural Language Processing, Multilingualism* | *Conference Preprint*
+</div>
+</div>
+
+<!-- NAACL 2025-2 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/BPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**BPO: Towards Balanced Preference Optimization between Knowledge Breadth and Depth in Alignment**
+
+Sizhe Wang, Yongqi Tong, `Hengyuan Zhang`, Dawei Li, Xin Zhang, Tianlong Chen
+
+
+[Paper] | [Code] | *Natural Language Processing* | *Conference Preprint*
 </div>
 </div>
 
