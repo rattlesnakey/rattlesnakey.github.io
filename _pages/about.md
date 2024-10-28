@@ -226,7 +226,7 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 <span class='anchor' id='-honor'></span>
 
 # 🏅 Selected Honors and Awards
-👉  Tsinghua University General Excellence Scholarship (Top 10%,RMB ¥ 5,000) \| *2023, 2024*
+👉  Tsinghua University General Excellence Scholarship (Top 10%, RMB ¥ 5,000) \| *2023, 2024*
 
 👉  National Scholarship (Top 1%, RMB ¥ 8,000) \| *2019, 2020, 2021*
 
