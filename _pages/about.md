@@ -77,7 +77,7 @@ I am keen on exploring opportunities for collaboration in research or projects. 
 
 [[Paper]](https://arxiv.org/pdf/2403.07322.pdf) | [[Code]](https://github.com/rattlesnakey/Q-MCKT) | *Data Mining, Education Recommendation, Interpretability in Prediction* | *JCR Q1 Journal*
 
-- This paper proposes Q-MCKT framework, which utilizes an item response theory-based prediction layer to generate interpretable prediction results by simultaneously modeling the knowledge acquisition and question difficulty.
+- This paper proposes Q-MCKT framework, which utilizes an item response theory-based prediction layer to generate interpretable prediction results by simultaneously modeling knowledge acquisition and question difficulty.
 </div>
 </div>
 
