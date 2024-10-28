@@ -6,11 +6,12 @@ main:
   # - title: "Education"
   #   url: "/#-edu"
 
-  - title: "Internships"
-    url: "/#-intern"
 
   - title: "Publications"
     url: "/#-pub"
+
+  - title: "Internships"
+    url: "/#-intern"
 
   - title: "Honors and Awards"
     url: "/#-honor"
