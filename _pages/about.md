@@ -232,7 +232,9 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 <span class='anchor' id='-honor'></span>
 
 # 🏅 Selected Honors and Awards
-👉  Tsinghua University General Excellence Scholarship (Top 10%, RMB ¥ 5,000) \| *2023, 2024*
+👉  Tsinghua University Comprehensive First-Class Scholarship (Top 3%, RMB ¥ 10,000) \| *2024*
+
+👉  Tsinghua University General Excellence Scholarship (Top 10%, RMB ¥ 5,000) \| *2023*
 
 👉  National Scholarship (Top 1%, RMB ¥ 8,000) \| *2019, 2020, 2021*
 
@@ -248,7 +250,7 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 
 👉  CUMCM-Beijing Area First Prize (Top 5%) \| *2020*     
 
-👉  Xiaomi Third Hacker Marathon Excellence (Top 10%) \| *2022*
+👉  Xiaomi Third Hacker Marathon Excellence (Top 7%, RMB ¥ 3,000) \| *2022*
 
 
 <br>
