@@ -45,7 +45,7 @@ I am keen on exploring opportunities for collaboration in research or projects. 
 
 `Hengyuan Zhang`, Chenming Shang, Sizhe Wang, Dongdong Zhang, Feng Yao, Renliang Sun, Yiyao Yu, Yujiu Yang, Furu Wei 
 
-[[Paper]](https://arxiv.org/pdf/2410.19453) | [[Code]](https://github.com/rattlesnakey/ShifCon) | *Natural Language Processing, Multilingualism, Interpretability in LLM* | *Conference Preprint*
+[[Paper]](https://arxiv.org/pdf/2410.19453) | [[Code]](https://github.com/rattlesnakey/ShifCon) | *Natural Language Processing, Multilingual, Interpretability in Parameter* | *Conference Preprint*
 
 - This paper aims to enhance the performance of non-dominant languages by projecting their representations into the dominant language space. We pinpoint the optimal layer area for shifting representations via a subspace distance metric.
 
@@ -62,7 +62,7 @@ I am keen on exploring opportunities for collaboration in research or projects. 
 `Hengyuan Zhang`, Yanru Wu, Dawei Li, Zacc Yang, Rui Zhao, Yong Jiang, Fei Tan
 <!-- `Hengyuan Zhang`, et al -->
 
-[[Paper]](https://arxiv.org/pdf/2404.10306.pdf) | [[Code]](https://github.com/rattlesnakey/CoFiTune) | *Natural Language Processing, Fine-tuning Technique, Interpretability in LLM* | *CCF-A Conference*
+[[Paper]](https://arxiv.org/pdf/2404.10306.pdf) | [[Code]](https://github.com/rattlesnakey/CoFiTune) | *Natural Language Processing, Fine-tuning Technique, Interpretability in Parameter* | *CCF-A Conference*
 
 - This paper introduces a Coarse-to-Fine Fine-tuning framework (*CoFiTune*) that strikes a delicate balance between speciality and versatility. It pinpoints and updates specific modules that are crucial for speciality, while keeping other parameters frozen.
 </div>
@@ -82,7 +82,6 @@ I am keen on exploring opportunities for collaboration in research or projects. 
 </div>
 
 
-
 <!-- NAACL 2025-2 -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/BPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
@@ -92,7 +91,8 @@ Sizhe Wang, Yongqi Tong, `Hengyuan Zhang`, Dawei Li, Xin Zhang, Tianlong Chen \\
 [[Paper]](https://ns7kunkhuh.feishu.cn/file/WbzMbr06noURTsxdkVLcUPnLnwb?from=from_copylink) | *Natural Language Processing, Fine-tuning Technique* | *Conference Preprint*
 
 
-<!-- KBS -->
+
+<!-- TKDE -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 - <span style="background-color:rgba(2,34,141);color:white">Preprint 2024</span>
@@ -100,7 +100,13 @@ Sizhe Wang, Yongqi Tong, `Hengyuan Zhang`, Dawei Li, Xin Zhang, Tianlong Chen \\
 `Hengyuan Zhang`, Zitao Liu, Shuyan Huang, Chenming Shang, Bojun Zhan, Yong Jiang\\
 [[Paper]](https://arxiv.org/pdf/2403.06725.pdf) | [[Code]](https://anonymous.4open.science/r/LoReKT-C619/README.md) | *Data Mining, Education Recommendation* | *Journal Preprint*
 
-
+<!-- ICLR 2025 -->
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+- <span style="background-color:rgba(2,34,141);color:white">Preprint 2024</span>
+ **Compositional Generalization Through Neuroscience-inspired Geometric Constraints on Representation Structure**\\
+Chenming Shang, Shiji Zhou, `Hengyuan Zhang`, Xinchen Zhang, Lei Ke, Yuwang Wang, Yujiu Yang\\
+[[Paper]](https://ns7kunkhuh.feishu.cn/file/EI8jb6luDoiDQUxYosVc2q3enGd?from=from_copylink) | *Computer Vision, Cognitive Science, Interpretability in Representation* | *Conference Preprint*
 
 <!-- CogSci CBM -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2024</div><img src='images/CogSci.png' alt="sym" width="100%"></div></div>
@@ -108,7 +114,7 @@ Sizhe Wang, Yongqi Tong, `Hengyuan Zhang`, Dawei Li, Xin Zhang, Tianlong Chen \\
 - <span style="background-color:rgba(2,34,141);color:white">CogSci 2024</span>
  **Understanding Multimodal Deep Neural Networks: A Concept Selection View**\\
 Chenming Shang, `Hengyuan Zhang`, Hao Wen, Yujiu Yang\\
-[[Paper]](https://arxiv.org/pdf/2404.08964.pdf) | *Computer Vision, Cognitive Science, Interpretability in Representation* | *CCF-B Conference*
+[[Paper]](https://arxiv.org/pdf/2404.08964.pdf) | *Computer Vision, Cognitive Science, Interpretability in Prediction* | *CCF-B Conference*
 
 
 
@@ -118,7 +124,7 @@ Chenming Shang, `Hengyuan Zhang`, Hao Wen, Yujiu Yang\\
 - <span style="background-color:rgba(2,34,141);color:white">CVPR 2024</span>
  **Incremental Residual Concept Bottleneck Model**\\
 Chenming Shang, Shiji Zhou, `Hengyuan Zhang`, Yujiu Yang, Xinzhe Ni, Yuwang Wang\\
-[[Paper]](https://arxiv.org/pdf/2404.08978.pdf) | [[Code]](https://github.com/HelloSCM/Res-CBM) | *Computer Vision, Cognitive Science, Interpretability in Representation* | *CCF-A Conference*
+[[Paper]](https://arxiv.org/pdf/2404.08978.pdf) | [[Code]](https://github.com/HelloSCM/Res-CBM) | *Computer Vision, Cognitive Science, Interpretability in Prediction* | *CCF-A Conference*
 
 
 
