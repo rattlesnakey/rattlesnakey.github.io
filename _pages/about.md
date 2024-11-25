@@ -47,7 +47,7 @@ I am keen on exploring opportunities for collaboration in research or projects. 
 
 [[Paper]](https://arxiv.org/pdf/2410.19453) | [[Code]](https://github.com/rattlesnakey/ShifCon) | *Natural Language Processing, Multilingual, Interpretability in Parameter* | *Conference Preprint*
 
-- This paper aims to enhance the performance of non-dominant languages by projecting their representations into the dominant language space. We pinpoint the optimal layer area for shifting representations via a subspace distance metric.
+- This paper aims to enhance the performance of non-dominant languages by projecting their representations into the dominant language space. We pinpoint the optimal layer area for shifting representations via a subspace distance metric. <span style="color:red">(OpenReview Score: [4, 4, 4.5])</span>
 
 </div>
 </div>
@@ -88,7 +88,7 @@ I am keen on exploring opportunities for collaboration in research or projects. 
 - <span style="background-color:rgba(2,34,141);color:white">Preprint 2024</span>
  **BPO: Towards Balanced Preference Optimization between Knowledge Breadth and Depth in Alignment**\\
 Sizhe Wang, Yongqi Tong, `Hengyuan Zhang`, Dawei Li, Xin Zhang, Tianlong Chen \\
-[[Paper]](https://ns7kunkhuh.feishu.cn/file/WbzMbr06noURTsxdkVLcUPnLnwb?from=from_copylink) | *Natural Language Processing, Fine-tuning Technique* | *Conference Preprint*
+[[Paper]](https://arxiv.org/pdf/2411.10914) | *Natural Language Processing, Fine-tuning Technique* | *Conference Preprint*
 
 
 
