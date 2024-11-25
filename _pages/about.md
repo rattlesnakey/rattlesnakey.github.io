@@ -232,7 +232,7 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 <span class='anchor' id='-honor'></span>
 
 # 🏅 Selected Honors and Awards
-👉  Tsinghua University Comprehensive First-Class Scholarship (Top 3%, RMB ¥ 10,000) \| *2024*
+👉  Tsinghua University Comprehensive First-Class Scholarship (Top 3%, RMB ¥ 10,000) \| *2024*
 
 👉  Tsinghua University General Excellence Scholarship (Top 10%, RMB ¥ 5,000) \| *2023*
 
