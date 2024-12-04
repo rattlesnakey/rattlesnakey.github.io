@@ -17,15 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-🤓 Hey folks! I am Hengyuan Zhang (张恒源 in Chinese).
-I am a master's student at Tsinghua University from August 2022, under the supervision of Prof. Yong Jiang and Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN). 
+🤓 Hey folks! I am Hengyuan Zhang (张恒源 in Chinese). Before going to college, I grew up in Xiamen, a beautiful coastal city in China.
+
+Currently, I am a master's student (3rd year) at Tsinghua University under the supervision of Prof. Yong Jiang and Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN). 
 
 
-My current research interests revolve around the application of **Natural Language Processing (NLP)** and **Data Mining** in specialized domains such as *Multilingualism*, *Education*, and *Cognitive Science*. I aim to approach these studies in an **interpretable** manner, seeking deeper insights into complex phenomena.
-I am particularly intrigued by the decision-making mechanisms integrated within models, eager to unravel their inner workings and enhance transparency.
+📚 My research interests revolve around the application of **Natural Language Processing (NLP)** and **Data Mining** in specialized domains such as *Multilingualism*, *Education*, and *Cognitive Science*. I aim to approach these studies in an **interpretable** manner, seeking deeper insights into complex phenomena.
+I am also particularly intrigued by the decision-making mechanisms integrated within models, eager to unravel their inner workings and enhance transparency.
+All in all, I aim to improve the **speciality** and **interpretability** of models, so as to make them more **powerful** and **trustworthy** in real-world applications.
 
-Looking ahead, I am also exploring the possibility of **enrolling in a Ph.D. program for the Fall of 2025**. 
-I am keen on exploring opportunities for collaboration in research or projects. Please do not hesitate to contact me at your convenience.
+📮 Looking ahead, I am exploring the possibility of **enrolling in a Ph.D. program for the Fall of 2025**. 
+I am also keen on exploring opportunities for collaboration in research or projects. Please do not hesitate to contact me at your convenience.
 
 
 <span class='anchor' id='-pub'></span>
@@ -221,7 +223,7 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 <!--MSRA -->
 <img class="svg" src="/images/MSRA.png" width="60pt">Microsoft Research Asia, Natural Language Computing (NLC) Group, Beijing
 <br>
-- *Mar. 2024 - Present*, Research Intern, working with [DongDong Zhang](https://scholar.google.com/citations?user=w2qu71oAAAAJ&hl=en) 
+- *Mar. 2024 - Dec. 2024*, Research Intern, working with [DongDong Zhang](https://scholar.google.com/citations?user=w2qu71oAAAAJ&hl=en) 
 
 <!-- <br> -->
 
@@ -234,11 +236,11 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 # 🏅 Selected Honors and Awards
 👉  Tsinghua University Comprehensive First-Class Scholarship (Top 3%, RMB ¥ 10,000) \| *2024*
 
-👉  Tsinghua University General Excellence Scholarship (Top 10%, RMB ¥ 5,000) \| *2023*
+👉  Tsinghua University General Excellence Scholarship (Top 10%, RMB ¥ 4,000) \| *2023*
 
 👉  National Scholarship (Top 1%, RMB ¥ 8,000) \| *2019, 2020, 2021*
 
-👉  Outstanding Graduate Student of Beijing (Top 3%) \| *2021*
+👉  Outstanding Graduate Student of Beijing (Top 3%) \| *2022*
 
 👉  Excellent League Member of Beijing (Top 3%) \| *2021*
 
