@@ -224,6 +224,7 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 <img class="svg" src="/images/MSRA.png" width="60pt">Microsoft Research Asia, Natural Language Computing (NLC) Group, Beijing
 <br>
 - *Mar. 2024 - Dec. 2024*, Research Intern, working with [DongDong Zhang](https://scholar.google.com/citations?user=w2qu71oAAAAJ&hl=en) 
+  - I got the <span style="color:red">"Stars of Tomorrow"</span> Award during the internship
 
 <!-- <br> -->
 
