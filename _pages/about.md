@@ -19,7 +19,7 @@ redirect_from:
 
 🤓 Hey folks! I am Hengyuan Zhang (张恒源 in Chinese). Before going to college, I grew up in Xiamen, a beautiful coastal city in China.
 
-Currently, I am a master's student (3rd year) at Tsinghua University under the supervision of Prof. Yong Jiang and Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN). 
+Currently, I am a master's student (3rd year) at Tsinghua University under the supervision of Prof. [Yong Jiang](https://www.semanticscholar.org/author/Yong-Jiang/101321464) and Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN). 
 
 
 📚 My research interests revolve around the application of **Natural Language Processing (NLP)** and **Data Mining** in specialized domains such as *Multilingualism*, *Education*, and *Cognitive Science*. I aim to approach these studies in an **interpretable** manner, seeking deeper insights into complex phenomena.
@@ -237,7 +237,7 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 # 🏅 Selected Honors and Awards
 👉  Tsinghua University Comprehensive First-Class Scholarship (Top 3%, RMB ¥ 10,000) \| *2024*
 
-👉  Tsinghua University General Excellence Scholarship (Top 10%, RMB ¥ 4,000) \| *2023*
+👉  Tsinghua University General Excellence Scholarship (Top 5%, RMB ¥ 4,000) \| *2023*
 
 👉  National Scholarship (Top 1%, RMB ¥ 8,000) \| *2019, 2020, 2021*
 
@@ -247,7 +247,7 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 
 👉  Merit Student of Beijing (Top 3%) \| *2021*
 
-👉  Meritorious Winner of Interdisciplinary Contest in Modeling (Top 7%) \| *2021*
+👉  Meritorious Winner of Interdisciplinary Contest in Modeling (Top 5%) \| *2021*
 
 👉  Computer Design Competition National Second Prize (Top 5%) \| *2020*
 
