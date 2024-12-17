@@ -224,7 +224,7 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 <img class="svg" src="/images/MSRA.png" width="60pt">Microsoft Research Asia, Natural Language Computing (NLC) Group, Beijing
 <br>
 - *Mar. 2024 - Dec. 2024*, Research Intern, working with [DongDong Zhang](https://scholar.google.com/citations?user=w2qu71oAAAAJ&hl=en) 
-  - I got the <span style="color:red">"Stars of Tomorrow"</span> Award during the internship
+  - I got the <span style="color:red">"Microsoft Stars of Tomorrow"</span> Award during the internship
 
 <!-- <br> -->
 
@@ -260,13 +260,14 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 <span class='anchor' id='-miscellaneous'></span>
 # 📌 Miscellaneous
 - I am actually a person with a strong desire to share. In my spare time, I like writing blogs and sharing experiences on Redbook, [Wechat Official Account](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0NTI3ODI2OQ==&scene=124#wechat_redirect) and [Bilibili](https://space.bilibili.com/14709944?spm_id_from=333.1007.0.0) (阿源的NLP碎碎念). The selected blogs are as follows:
+  - [Interpreting Security Modules within Large Language Model](https://mp.weixin.qq.com/s/3693Q7NPnRoH0r4S0RiEDA?token=889452301&lang=zh_CN)
+  - [Do Llama Work in English?](https://mp.weixin.qq.com/s/8EB1q8w9DmIw_M7msK_cgw?token=889452301&lang=zh_CN)
   - [Linguistic Regions in the Large Language Model](https://mp.weixin.qq.com/s/-FHKqUieqJuO3VoTozS4Mw) 
   - [Prevent Catastrophic Forgetting via SoftMask Mechanism](https://mp.weixin.qq.com/s/udjiYzt7cwCdlH1a98ylbA)
   - [The Key Components in Transformer](https://mp.weixin.qq.com/s/hXMEQ7ZPF53-iyOzZRXXZg)
   - [The Evaluation of Instruction Following](https://mp.weixin.qq.com/s/m3RHJ9q-RCkGL33AewdDUg)
   - [Skill Localization of Large Language Model](https://mp.weixin.qq.com/s/x61tHD896Leoz8DO-0weAg)
   - [iMAge-guided Text GeneratIon with CLIP](https://mp.weixin.qq.com/s/fQ6t96aqAgvRDAIjIt9QYA)
-  - [The Difference between GLM and UL2 Architectures](https://mp.weixin.qq.com/s/x-BGp-XA9PI07oyEQkrvGw) 
 - I used to be a guitarist 🎸 in a band when I was in high school. Also, I love playing badminton 🏸, table tennis 🏓 and soccer ⚽️. During holidays, I will also seize any opportunity to travel around the world  ⛳️.
 
 <div style="display: flex;">
