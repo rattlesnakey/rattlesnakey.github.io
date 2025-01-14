@@ -256,19 +256,30 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 👉  Xiaomi Third Hacker Marathon Excellence (Top 7%, RMB ¥ 3,000) \| *2022*
 
 
+
+<!-- <br>
+<span class='anchor' id='-miscellaneous'></span>
+# ⛳️ Extracurricular Activities
+- Vice Minister of the Academic Department, SIGS Student Union, Tsinghua University  -->
+
+
+
 <br>
 <span class='anchor' id='-miscellaneous'></span>
 # 📌 Miscellaneous
-- I am actually a person with a strong desire to share. In my spare time, I like writing blogs and sharing experiences on Redbook, [Wechat Official Account](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0NTI3ODI2OQ==&scene=124#wechat_redirect) and [Bilibili](https://space.bilibili.com/14709944?spm_id_from=333.1007.0.0) (阿源的NLP碎碎念). The selected blogs are as follows:
+- I once led the Academic Department of SIGS Student Union at Tsinghua University. During which, I organized academic activities such as academic forums and experience-sharing sessions. I am also a member of the Beijing Xiamen ECC (北京厦门企业商会), actively participating in sharing activities [[Link]](https://mp.weixin.qq.com/s/DFG97r0-hL12VYFAeshpHA).
+- I also participated in social activities such as rural revitalization [[Photo]](images/fuding.jpg), representing Tsinghua in a Swiss "Global Warming" forum [[Photo]](images/swiss.jpg), and helping international students with Chinese, computer, and math [[Photo]](images/tutoring.jpg).
+- I am actually a person with a strong desire to share. In my spare time, I like writing blogs and sharing experiences on Redbook, [Wechat Official Account](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0NTI3ODI2OQ==&scene=124#wechat_redirect), and [Bilibili](https://space.bilibili.com/14709944?spm_id_from=333.1007.0.0) (阿源的NLP碎碎念). The selected blogs are as follows:
+  - [Interpreting Arithmetic Calculation Modules within LLMs](https://mp.weixin.qq.com/s/D4z8zHmr3cij5_d5rOgLwg)
   - [Interpreting Security Modules within Large Language Model](https://mp.weixin.qq.com/s/3693Q7NPnRoH0r4S0RiEDA?token=889452301&lang=zh_CN)
   - [Do Llama Work in English?](https://mp.weixin.qq.com/s/8EB1q8w9DmIw_M7msK_cgw?token=889452301&lang=zh_CN)
-  - [Linguistic Regions in the Large Language Model](https://mp.weixin.qq.com/s/-FHKqUieqJuO3VoTozS4Mw) 
+  - [Interpreting Linguistic Regions with in LLMs](https://mp.weixin.qq.com/s/-FHKqUieqJuO3VoTozS4Mw) 
   - [Prevent Catastrophic Forgetting via SoftMask Mechanism](https://mp.weixin.qq.com/s/udjiYzt7cwCdlH1a98ylbA)
   - [The Key Components in Transformer](https://mp.weixin.qq.com/s/hXMEQ7ZPF53-iyOzZRXXZg)
   - [The Evaluation of Instruction Following](https://mp.weixin.qq.com/s/m3RHJ9q-RCkGL33AewdDUg)
   - [Skill Localization of Large Language Model](https://mp.weixin.qq.com/s/x61tHD896Leoz8DO-0weAg)
   - [iMAge-guided Text GeneratIon with CLIP](https://mp.weixin.qq.com/s/fQ6t96aqAgvRDAIjIt9QYA)
-- I used to be a guitarist 🎸 in a band when I was in high school. Also, I love playing badminton 🏸, table tennis 🏓 and soccer ⚽️. During holidays, I will also seize any opportunity to travel around the world  ⛳️.
+- I used to be a guitarist 🎸 in a band when I was in high school. Also, I love playing badminton 🏸, table tennis 🏓 and, soccer ⚽️. During holidays, I will also seize any opportunity to travel around the world  ⛳️.
 
 <div style="display: flex;">
   <img src="images/life1.png" alt="Image 1" width="50%" />
