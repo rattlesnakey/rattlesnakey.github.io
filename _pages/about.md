@@ -87,10 +87,10 @@ I am also keen on exploring opportunities for collaboration in research or proje
 <!-- NAACL 2025-2 -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/BPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-- <span style="background-color:rgba(2,34,141);color:white">Preprint 2024</span>
+- <span style="background-color:rgba(2,34,141);color:white">NAACL 2025</span>
  **BPO: Towards Balanced Preference Optimization between Knowledge Breadth and Depth in Alignment**\\
 Sizhe Wang, Yongqi Tong, `Hengyuan Zhang`, Dawei Li, Xin Zhang, Tianlong Chen \\
-[[Paper]](https://arxiv.org/pdf/2411.10914) | *Natural Language Processing, Fine-tuning Technique* | *Conference Preprint*
+[[Paper]](https://arxiv.org/pdf/2411.10914) | *Natural Language Processing, Fine-tuning Technique* | *CCF-B Conference*
 
 
 
