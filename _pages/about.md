@@ -93,6 +93,14 @@ Sizhe Wang, Yongqi Tong, `Hengyuan Zhang`, Dawei Li, Xin Zhang, Tianlong Chen \\
 [[Paper]](https://arxiv.org/pdf/2411.10914) | *Natural Language Processing, Fine-tuning Technique* | *CCF-B Conference*
 
 
+<!-- ACL 2025 -->
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+- <span style="background-color:rgba(2,34,141);color:white">Preprint 2025</span>
+ **Chain-of-Reasoning: Towards Unified Mathematical Reasoning in Large Language Models via a Multi-Paradigm Perspective** \\
+Yiyao Yu, Yuxiang Zhang, Dongdong Zhang, Xiao Liang, `Hengyuan Zhang`, et al., Yujiu Yang, Furu Wei\\
+[[Paper]](https://arxiv.org/pdf/2501.11110) | *Natural Language Processing, Fine-tuning Technique* | *Conference Preprint*
+
 
 <!-- TKDE -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
