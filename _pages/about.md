@@ -164,7 +164,7 @@ Dawei Li, `Hengyuan Zhang`, Yanran Li, Shiping Yang\\
 - <span style="background-color:rgba(2,34,141);color:white">AACL 2022</span><span style="color:red">(Oral)</span>
  **Fine-grained Contrastive Learning for Definition Generation**\\
 `Hengyuan Zhang`, Dawei Li, Shiping Yang, Yanran Li\\
-[[Paper]](https://arxiv.org/abs/2210.00543) | [[Code]](https://github.com/rattlesnakey/Definition-Gneration-Contrastive) | *Natural Language Processing, Education, Interpretability in Representation* | *CCF-A Conference*
+[[Paper]](https://arxiv.org/abs/2210.00543) | [[Code]](https://github.com/rattlesnakey/Definition-Gneration-Contrastive) | *Natural Language Processing, Education, Interpretability in Representation* | *Conference*
 
 
 
