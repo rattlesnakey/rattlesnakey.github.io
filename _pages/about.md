@@ -59,7 +59,7 @@ I am also keen on exploring opportunities for collaboration in research or proje
 <!-- ACL 2024 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/CoFiTune.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Balancing Speciality and Versatility: a Coarse to Fine Framework for Supervised Fine-tuning Large Language Model**
+**Balancing Speciality and Versatility: A Coarse to Fine Framework for Mitigating Catastrophic Forgetting in Large Language Models**
 
 `Hengyuan Zhang`, Yanru Wu, Dawei Li, Zacc Yang, Rui Zhao, Yong Jiang, Fei Tan
 <!-- `Hengyuan Zhang`, et al -->
