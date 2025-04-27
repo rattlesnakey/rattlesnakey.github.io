@@ -215,32 +215,51 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 <!-- <img class="svg" src="/images/baidu.png" width="60pt">Baidu, Search Strategy Lab, Beijing
 <br>
 - *Mar. 2021 - Jul. 2021*, Engineering Intern, working with Ge Chen -->
+<img class="svg" src="/images/baidu.png" width="60pt">Baidu, Search Strategy Lab, Beijing
+<br>
+- *Mar. 2021 - Jul. 2021*, Engineering Intern
 
 <!-- <br> -->
 <!-- xiaomi -->
+<!-- <img class="svg" src="/images/xiaomi-logo.png" width="30pt"> Xiaomi, AI Lab, Beijing
+<br>
+- *Mar. 2022 - Sept. 2022*, Research Intern, working with Tong Chen and [Yanran Li](https://scholar.google.com/citations?user=URdBBQUAAAAJ&hl=zh-CN) -->
 <img class="svg" src="/images/xiaomi-logo.png" width="30pt"> Xiaomi, AI Lab, Beijing
 <br>
-- *Mar. 2022 - Sept. 2022*, Research Intern, working with Tong Chen and [Yanran Li](https://scholar.google.com/citations?user=URdBBQUAAAAJ&hl=zh-CN)
+- *Mar. 2022 - Sept. 2022*, Research Intern
+
 
 
 <!-- <br> -->
 <!-- tencent -->
+<!-- <img class="svg" src="/images/tencent.png" width="70pt"> Tencent, AI Lab, Shenzhen
+<br>
+- *Mar. 2023 - Jul. 2023*, Research Intern, working with [Wei Bi](https://scholar.google.com/citations?hl=zh-CN&user=aSJcgQMAAAAJ&view_op=list_works&sortby=pubdate) -->
 <img class="svg" src="/images/tencent.png" width="70pt"> Tencent, AI Lab, Shenzhen
 <br>
-- *Mar. 2023 - Jul. 2023*, Research Intern, working with [Wei Bi](https://scholar.google.com/citations?hl=zh-CN&user=aSJcgQMAAAAJ&view_op=list_works&sortby=pubdate)
+- *Mar. 2023 - Jul. 2023*, Research Intern
 
 <!-- <br> -->
 <!-- sensetime -->
+<!-- <img class="svg" src="/images/sensetime.png" width="85pt">Sensetime, Research, Shenzhen
+<br>
+- *Aug. 2023 - Mar. 2024*, Research Intern, working with [Fei Tan](https://scholar.google.com/citations?hl=zh-CN&user=IhYATC0AAAAJ&view_op=list_works&sortby=pubdate) -->
 <img class="svg" src="/images/sensetime.png" width="85pt">Sensetime, Research, Shenzhen
 <br>
-- *Aug. 2023 - Mar. 2024*, Research Intern, working with [Fei Tan](https://scholar.google.com/citations?hl=zh-CN&user=IhYATC0AAAAJ&view_op=list_works&sortby=pubdate)
+- *Aug. 2023 - Mar. 2024*, Research Intern
 <!-- <br> -->
 
 <!--MSRA -->
-<img class="svg" src="/images/MSRA.png" width="60pt">Microsoft Research Asia, Natural Language Computing (NLC) Group, Beijing
+<!-- <img class="svg" src="/images/MSRA.png" width="60pt">Microsoft Research Asia, NLC Group, Beijing
 <br>
 - *Mar. 2024 - Dec. 2024*, Research Intern, working with [DongDong Zhang](https://scholar.google.com/citations?user=w2qu71oAAAAJ&hl=en) 
+  - I got the <span style="color:red">"Microsoft Stars of Tomorrow"</span> Award during the internship -->
+
+<img class="svg" src="/images/MSRA.png" width="60pt">Microsoft Research Asia, NLC Group, Beijing
+<br>
+- *Mar. 2024 - Dec. 2024*, Research Intern
   - I got the <span style="color:red">"Microsoft Stars of Tomorrow"</span> Award during the internship
+
 
 <!-- <br> -->
 
@@ -255,7 +274,7 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 
 👉  Tsinghua University General Excellence Scholarship (Top 5%, RMB ¥ 4,000) \| *2023*
 
-👉  National Scholarship (Top 1%, RMB ¥ 8,000) \| *2019, 2020, 2021*
+👉  National Scholarship (Top 1%, 3 Times, RMB ¥ 24,000) \| *2019, 2020, 2021*
 
 👉  Outstanding Graduate Student of Beijing (Top 3%) \| *2022*
 
