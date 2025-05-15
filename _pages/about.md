@@ -40,8 +40,8 @@ I am also keen on exploring opportunities for collaboration in research or proje
 # 📝 Publications
 <!-- \* denotes equal contribution -->
 
-<!-- NAACL 2025 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/ShifCon.png' alt="sym" width="100%"></div></div>
+<!-- ACL 2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ShifCon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **ShifCon: Enhancing Non-Dominant Language Capabilities with a Shift-based Contrastive Framework** 
 
@@ -84,6 +84,16 @@ I am also keen on exploring opportunities for collaboration in research or proje
 </div>
 
 
+<!-- ACL 2025 yiyao-->
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+- <span style="background-color:rgba(2,34,141);color:white">ACL 2025</span>
+ **Chain-of-Reasoning: Towards Unified Mathematical Reasoning in Large Language Models via a Multi-Paradigm Perspective** \\
+Yiyao Yu, Yuxiang Zhang, Dongdong Zhang, Xiao Liang, `Hengyuan Zhang`, et al., Yujiu Yang, Furu Wei\\
+[[Paper]](https://arxiv.org/pdf/2501.11110) | *Natural Language Processing, Fine-tuning Technique* | *Conference Preprint*
+
+
+
 <!-- NAACL 2025-2 -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/BPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
@@ -92,14 +102,6 @@ I am also keen on exploring opportunities for collaboration in research or proje
 Sizhe Wang, Yongqi Tong, `Hengyuan Zhang`, Dawei Li, Xin Zhang, Tianlong Chen \\
 [[Paper]](https://arxiv.org/pdf/2411.10914) | *Natural Language Processing, Fine-tuning Technique* | *CCF-B Conference*
 
-
-<!-- ACL 2025 yiyao-->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
-- <span style="background-color:rgba(2,34,141);color:white">Preprint 2025</span>
- **Chain-of-Reasoning: Towards Unified Mathematical Reasoning in Large Language Models via a Multi-Paradigm Perspective** \\
-Yiyao Yu, Yuxiang Zhang, Dongdong Zhang, Xiao Liang, `Hengyuan Zhang`, et al., Yujiu Yang, Furu Wei\\
-[[Paper]](https://arxiv.org/pdf/2501.11110) | *Natural Language Processing, Fine-tuning Technique* | *Conference Preprint*
 
 <!-- ACL 2025 shiping-->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
