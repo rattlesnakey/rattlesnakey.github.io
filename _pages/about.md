@@ -47,7 +47,7 @@ I am also keen on exploring opportunities for collaboration in research or proje
 
 `Hengyuan Zhang`, Chenming Shang, Sizhe Wang, Dongdong Zhang, Feng Yao, Renliang Sun, Yiyao Yu, Yujiu Yang, Furu Wei 
 
-[[Paper]](https://arxiv.org/pdf/2410.19453) | [[Code]](https://github.com/rattlesnakey/ShifCon) | *Natural Language Processing, Multilingual, Interpretability in Parameter* | *Conference Preprint*
+[[Paper]](https://arxiv.org/pdf/2410.19453) | [[Code]](https://github.com/rattlesnakey/ShifCon) | *Natural Language Processing, Multilingual, Interpretability in Parameter* | *CCF-A Conference*
 
 - This paper aims to enhance the performance of non-dominant languages by projecting their representations into the dominant language space. We pinpoint the optimal layer area for shifting representations via a subspace distance metric. <span style="color:red">(OpenReview Score: [4, 4, 4.5])</span>
 
