@@ -90,7 +90,7 @@ I am also keen on exploring opportunities for collaboration in research or proje
 - <span style="background-color:rgba(2,34,141);color:white">ACL 2025</span>
  **Chain-of-Reasoning: Towards Unified Mathematical Reasoning in Large Language Models via a Multi-Paradigm Perspective** \\
 Yiyao Yu, Yuxiang Zhang, Dongdong Zhang, Xiao Liang, `Hengyuan Zhang`, et al., Yujiu Yang, Furu Wei\\
-[[Paper]](https://arxiv.org/pdf/2501.11110) | *Natural Language Processing, Fine-tuning Technique* | *Conference Preprint*
+[[Paper]](https://arxiv.org/pdf/2501.11110) | *Natural Language Processing, Fine-tuning Technique* | *CCF-A Conference*
 
 
 
