@@ -102,6 +102,34 @@ Sizhe Wang, Yongqi Tong, `Hengyuan Zhang`, Dawei Li, Xin Zhang, Tianlong Chen \\
 [[Paper]](https://arxiv.org/pdf/2411.10914) | *Natural Language Processing, Fine-tuning Technique* | *CCF-B Conference*
 
 
+<!-- EMNLP GuiLoMo-->
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+- <span style="background-color:rgba(2,34,141);color:white">Preprint 2025</span>
+ **GuiLoMo: Allocating Expert Number and Rank for LoRA-MoE via Bilevel Optimization with GuidedSelection Vectors** \\
+`Hengyuan Zhang`, Xinrong Chen, Yingmin Qiu, Xiao Liang, et al., Hayden Kwok-Hay So, Ngai Wong\\
+[[Paper]](https://arxiv.org/pdf/2506.14646?) | *Natural Language Processing, Fine-tuning Technique* | *Conference Preprint*
+
+
+<!-- EMNLP TreeReview-->
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+- <span style="background-color:rgba(2,34,141);color:white">Preprint 2025</span>
+**TreeReview: A Dynamic Tree of Questions Framework for Deep and Efficient LLM-based Scientific Peer Review** \\
+Yuan Chang, Ziyue Li, `Hengyuan Zhang`, Yuanbo Kong, Yanru Wu, Zhijiang Guo, Ngai Wong\\
+[[Paper]](https://arxiv.org/pdf/2506.07642) | *Natural Language Processing* | *Conference Preprint*
+
+<!-- NIPS Sws-->
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+- <span style="background-color:rgba(2,34,141);color:white">Preprint 2025</span>
+ **SwS: Self-aware Weakness-driven Problem Synthesis in Reinforcement Learning for LLM Reasoning** \\
+ Xiao Liang, Zhong-Zhi Li, Yeyun Gong, Yang Wang, `Hengyuan Zhang`, Yelong Shen, Ying Nian Wu, Weizhu Chen\\
+[[Paper]](https://arxiv.org/pdf/2506.08989?) | *Natural Language Processing, Data Synthesis* | *Conference Preprint*
+
+
+
+
 <!-- ACL 2025 shiping-->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
@@ -305,7 +333,7 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 # 📌 Miscellaneous
 - I once led the Academic Department of SIGS Student Union at Tsinghua University. During which, I organized academic activities such as academic forums and experience-sharing sessions. I am also a member of the Beijing Xiamen ECC (北京厦门企业商会), actively participating in sharing activities [[Link]](https://mp.weixin.qq.com/s/DFG97r0-hL12VYFAeshpHA).
 - I also participated in social activities such as rural revitalization [[Photo]](images/fuding.jpg), representing Tsinghua in a Swiss "Global Warming" forum [[Photo]](images/swiss.jpg), and helping international students with Chinese, computer, and math [[Photo]](images/tutoring.jpg).
-- I am actually a person with a strong desire to share. In my spare time, I like writing blogs and sharing experiences on [Rednote](https://www.xiaohongshu.com/user/profile/5b436cc5f7e8b976f413343f?xsec_token=YBv9botEIHUitz7ZFPPhcIIdqhpMeuw6qak58zvB3MiLc=&xsec_source=app_share&xhsshare=CopyLink&appuid=5b436cc5f7e8b976f413343f&apptime=1746533636&share_id=4cf62cfa0abb409ab33119e85f32af07), [Wechat Official Account](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0NTI3ODI2OQ==&scene=124#wechat_redirect), and [Bilibili](https://space.bilibili.com/14709944?spm_id_from=333.1007.0.0) (阿源的NLP碎碎念). The selected blogs are as follows:
+- I am actually a person with a strong desire to share. In my spare time, I like writing blogs and sharing experiences on [[**Rednote**]](https://www.xiaohongshu.com/user/profile/5b436cc5f7e8b976f413343f?xsec_token=YBv9botEIHUitz7ZFPPhcIIdqhpMeuw6qak58zvB3MiLc=&xsec_source=app_share&xhsshare=CopyLink&appuid=5b436cc5f7e8b976f413343f&apptime=1746533636&share_id=4cf62cfa0abb409ab33119e85f32af07), [[**Wechat Official Account**]](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0NTI3ODI2OQ==&scene=124#wechat_redirect), and [[**Bilibili**]](https://space.bilibili.com/14709944?spm_id_from=333.1007.0.0) (阿源的NLP碎碎念). The selected blogs are as follows:
   - [Interpreting Arithmetic Calculation Modules within LLMs](https://mp.weixin.qq.com/s/D4z8zHmr3cij5_d5rOgLwg)
   - [Interpreting Security Modules within Large Language Model](https://mp.weixin.qq.com/s/3693Q7NPnRoH0r4S0RiEDA?token=889452301&lang=zh_CN)
   - [Do Llama Work in English?](https://mp.weixin.qq.com/s/8EB1q8w9DmIw_M7msK_cgw?token=889452301&lang=zh_CN)
