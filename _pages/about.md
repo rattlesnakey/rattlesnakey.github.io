@@ -214,20 +214,20 @@ Dawei Li, `Hengyuan Zhang`, Yanran Li, Shiping Yang\\
 <!-- ACL 2022 multitask -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='images/multitask-def-gen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-- <span style="background-color:rgba(2,34,141);color:white">ACL 2022</span>
+<!-- - <span style="background-color:rgba(2,34,141);color:white">ACL 2022</span>
  **Multitasking Framework for Unsupervised Simple Definition Generation**\\
 Cunliang Kong, Yun Chen, `Hengyuan Zhang`, Liner Yang, Erhong Yang\\
-[[Paper]](https://arxiv.org/abs/2203.12926) | [[Code]](https://github.com/blcuicall/SimpDefiner) | *Natural Language Processing, Education, Interpretability in Representation* | *CCF-A Conference*
+[[Paper]](https://arxiv.org/abs/2203.12926) | [[Code]](https://github.com/blcuicall/SimpDefiner) | *Natural Language Processing, Education, Interpretability in Representation* | *CCF-A Conference* -->
 
 
 
 <!-- NAACL SemEval -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2022 SemEval</div><img src='images/semeval.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-- <span style="background-color:rgba(2,34,141);color:white">NAACL 2022 SemEval</span>
+<!-- - <span style="background-color:rgba(2,34,141);color:white">NAACL 2022 SemEval</span>
  **SemEval-2022 Task 1: Cross-Attention Multitasking Framework for Definition Modeling**\\
 Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong Yang\\
-[[Paper]](https://arxiv.org/abs/2204.07701) | [[Code]](https://github.com/blcuicall/SemEval2022-Task1-DM) | *Natural Language Processing, Education, Interpretability in Representation* | *CCF-B Conference*
+[[Paper]](https://arxiv.org/abs/2204.07701) | [[Code]](https://github.com/blcuicall/SemEval2022-Task1-DM) | *Natural Language Processing, Education, Interpretability in Representation* | *CCF-B Conference* -->
 
 
 
