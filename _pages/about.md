@@ -20,13 +20,14 @@ redirect_from:
 🤓 Hey folks! I am Hengyuan Zhang (张恒源 in Chinese). Before going to college, I grew up in Xiamen, a beautiful coastal city in China.
 
 <!-- Currently, I am a master's student (3rd year) at Tsinghua University under the supervision of Prof. [Yong Jiang](https://www.semanticscholar.org/author/Yong-Jiang/101321464) and Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN).  -->
-📚 Currently, I am a master's student (3rd year) at Tsinghua University. My research interests revolve around the application of **Natural Language Processing (NLP)** and **Data Mining** in specialized domains such as *Multilingualism*, *Education*, and *Cognitive Science*. I aim to approach these studies in an **interpretable** manner, seeking deeper insights into complex phenomena.
+<!-- Currently, I am a master's student (3rd year) at Tsinghua University. -->
+📚 My research interests revolve around the application of **Natural Language Processing (NLP)** and **Data Mining** in specialized domains such as *Multilingualism*, *Education*, and *Cognitive Science*. I aim to approach these studies in an **interpretable** manner, seeking deeper insights into complex phenomena.
 
-I am also particularly intrigued by the decision-making mechanisms integrated within models, eager to unravel their inner workings and enhance transparency.
+🧐 I am also particularly intrigued by the decision-making mechanisms integrated within models, eager to unravel their inner workings and enhance transparency.
 All in all, I aim to improve the **speciality** and **interpretability** of models, so as to make them more **powerful** and **trustworthy** in real-world applications.
 
-📮 Looking ahead, I am exploring the possibility of **enrolling in a Ph.D. program for the Fall of 2025**. 
-I am also keen on exploring opportunities for collaboration in research or projects. Please do not hesitate to contact me at your convenience.
+<!-- Looking ahead, I am exploring the possibility of **enrolling in a Ph.D. program for the Fall of 2025**.  -->
+📮 I am keen on exploring opportunities for collaboration in research or projects 😊. Please do not hesitate to contact me at your convenience!
 
 
 <span class='anchor' id='-pub'></span>
@@ -53,6 +54,19 @@ I am also keen on exploring opportunities for collaboration in research or proje
 </div>
 </div>
 
+<!-- EMNLP 2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/GuiLoMo.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**GuiLoMo: Allocating Expert Number and Rank for LoRA-MoE via Bilevel Optimization with GuidedSelection Vectors** 
+
+`Hengyuan Zhang`, Xinrong Chen, Xiao Liang, Ziyue Li, et al., Ngai Wong
+
+[[Paper]](https://arxiv.org/pdf/2506.14646?) | [[Code]](https://github.com/Liar406/Gui-LoMo) | *Natural Language Processing, Fine-tuning Technique, Interpretability in Parameter* | *CCF-B Conference*
+
+- This paper introduces a fine-grained strategy, i.e., GuiLoMo, for jointly allocating optimal layer-wise expert numbers and ranks in LoRA-MoE based on bilevel optimization with GuidedSelection vectors.</span>
+
+</div>
+</div>
 
 
 <!-- ACL 2024 -->
@@ -105,16 +119,16 @@ Sizhe Wang, Yongqi Tong, `Hengyuan Zhang`, Dawei Li, Xin Zhang, Tianlong Chen \\
 <!-- EMNLP GuiLoMo-->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-- <span style="background-color:rgba(2,34,141);color:white">Preprint 2025</span>
+<!-- - <span style="background-color:rgba(2,34,141);color:white">Preprint 2025</span>
  **GuiLoMo: Allocating Expert Number and Rank for LoRA-MoE via Bilevel Optimization with GuidedSelection Vectors** \\
 `Hengyuan Zhang`, Xinrong Chen, Yingmin Qiu, Xiao Liang, et al., Hayden Kwok-Hay So, Ngai Wong\\
-[[Paper]](https://arxiv.org/pdf/2506.14646?) | *Natural Language Processing, Fine-tuning Technique* | *Conference Preprint*
+[[Paper]](https://arxiv.org/pdf/2506.14646?) | *Natural Language Processing, Fine-tuning Technique* | *Conference Preprint* -->
 
 
 <!-- EMNLP TreeReview-->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-- <span style="background-color:rgba(2,34,141);color:white">Preprint 2025</span>
+- <span style="background-color:rgba(2,34,141);color:white">EMNLP 2025</span>
 **TreeReview: A Dynamic Tree of Questions Framework for Deep and Efficient LLM-based Scientific Peer Review** \\
 Yuan Chang, Ziyue Li, `Hengyuan Zhang`, Yuanbo Kong, Yanru Wu, Zhijiang Guo, Ngai Wong\\
 [[Paper]](https://arxiv.org/pdf/2506.07642) | *Natural Language Processing* | *Conference Preprint*
