@@ -97,6 +97,14 @@ All in all, I aim to improve the **speciality** and **interpretability** of mode
 </div>
 
 
+<!-- NIPS Sws-->
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+- <span style="background-color:rgba(2,34,141);color:white">NeurIPS 2025</span>
+ **SwS: Self-aware Weakness-driven Problem Synthesis in Reinforcement Learning for LLM Reasoning** \\
+ Xiao Liang, Zhong-Zhi Li, Yeyun Gong, Yang Wang, `Hengyuan Zhang`, Yelong Shen, Ying Nian Wu, Weizhu Chen\\
+[[Paper]](https://arxiv.org/pdf/2506.08989?) | *Natural Language Processing, Data Synthesis* | *CCF-A Conference*
+
 <!-- ACL 2025 yiyao-->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
@@ -106,6 +114,13 @@ Yiyao Yu, Yuxiang Zhang, Dongdong Zhang, Xiao Liang, `Hengyuan Zhang`, et al., Y
 [[Paper]](https://arxiv.org/pdf/2501.11110) | *Natural Language Processing, Fine-tuning Technique* | *CCF-A Conference*
 
 
+<!-- EMNLP TreeReview-->
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+- <span style="background-color:rgba(2,34,141);color:white">EMNLP 2025</span>
+**TreeReview: A Dynamic Tree of Questions Framework for Deep and Efficient LLM-based Scientific Peer Review** \\
+Yuan Chang, Ziyue Li, `Hengyuan Zhang`, Yuanbo Kong, Yanru Wu, Zhijiang Guo, Ngai Wong\\
+[[Paper]](https://arxiv.org/pdf/2506.07642) | *Natural Language Processing* | *CCF-B Conference*
 
 <!-- NAACL 2025-2 -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/BPO.png' alt="sym" width="100%"></div></div>
@@ -123,23 +138,6 @@ Sizhe Wang, Yongqi Tong, `Hengyuan Zhang`, Dawei Li, Xin Zhang, Tianlong Chen \\
  **GuiLoMo: Allocating Expert Number and Rank for LoRA-MoE via Bilevel Optimization with GuidedSelection Vectors** \\
 `Hengyuan Zhang`, Xinrong Chen, Yingmin Qiu, Xiao Liang, et al., Hayden Kwok-Hay So, Ngai Wong\\
 [[Paper]](https://arxiv.org/pdf/2506.14646?) | *Natural Language Processing, Fine-tuning Technique* | *Conference Preprint* -->
-
-
-<!-- EMNLP TreeReview-->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
-- <span style="background-color:rgba(2,34,141);color:white">EMNLP 2025</span>
-**TreeReview: A Dynamic Tree of Questions Framework for Deep and Efficient LLM-based Scientific Peer Review** \\
-Yuan Chang, Ziyue Li, `Hengyuan Zhang`, Yuanbo Kong, Yanru Wu, Zhijiang Guo, Ngai Wong\\
-[[Paper]](https://arxiv.org/pdf/2506.07642) | *Natural Language Processing* | *Conference Preprint*
-
-<!-- NIPS Sws-->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
-- <span style="background-color:rgba(2,34,141);color:white">Preprint 2025</span>
- **SwS: Self-aware Weakness-driven Problem Synthesis in Reinforcement Learning for LLM Reasoning** \\
- Xiao Liang, Zhong-Zhi Li, Yeyun Gong, Yang Wang, `Hengyuan Zhang`, Yelong Shen, Ying Nian Wu, Weizhu Chen\\
-[[Paper]](https://arxiv.org/pdf/2506.08989?) | *Natural Language Processing, Data Synthesis* | *Conference Preprint*
 
 
 
