@@ -41,6 +41,21 @@ All in all, I aim to improve the **speciality** and **interpretability** of mode
 <!-- \* denotes equal contribution -->
 
 <!-- ACL 2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/PerSyn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Find Your Optimal Teacher: Personalized Data Synthesis via Router-Guided Multi-Teacher Distillation** 
+
+`Hengyuan Zhang`, Shiping Yang, Xiao Liang, et al., Chaofan Tao, Jing Xiong, Hayden Kwok-Hay So, Ruobing Xie, Angel X. Chang, Ngai Wong
+
+[[Paper]](https://arxiv.org/pdf/2510.10925) | *Natural Language Processing, Data Synthesis* | *Conference Preprint*
+
+- This paper proposes PerSyn, a novel data synthesis strategy that operates under a new "Route then Generate" paradigm to create data tailored to each student model, enabling it to learn more effectively.
+
+</div>
+</div>
+
+
+<!-- ACL 2025 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ShifCon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **ShifCon: Enhancing Non-Dominant Language Capabilities with a Shift-based Contrastive Framework** 
