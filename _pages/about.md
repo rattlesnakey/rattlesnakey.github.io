@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-🤓 Hey folks! I am Hengyuan Zhang (张恒源 in Chinese). Before going to college, I grew up in Xiamen, a beautiful coastal city in China.
+🤓 Hey folks! I am Hengyuan Zhang (张恒源 in Chinese), a first-year PhD student at University of Hong Kong. Before going to college, I grew up in Xiamen, a beautiful coastal city in China.
 
 <!-- Currently, I am a master's student (3rd year) at Tsinghua University under the supervision of Prof. [Yong Jiang](https://www.semanticscholar.org/author/Yong-Jiang/101321464) and Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN).  -->
 <!-- Currently, I am a master's student (3rd year) at Tsinghua University. -->

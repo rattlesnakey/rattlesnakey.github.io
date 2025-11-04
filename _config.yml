@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hengyuan Zhang (张恒源)"
-description              : "Master's student at Tsinghua University. Focusing on domain-specific studies in NLP and data mining."
+description              : "PhD student at University of Hong Kong, actively seeking collaboration opportunities in LLM."
 repository               : "rattlesnakey/rattlesnakey.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hengyuan Zhang (张恒源)"
   avatar           : "images/personal-image2.jpg"
-  bio              : "Tsinghua University"
+  bio              : ""
   location         : # 
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   # googlescholar    : #"https://scholar.google.com/citations?user=VA3G0FwAAAAJ&hl=zh-CN"
-  email            : "zhang-hy22@mails.tsinghua.edu.cn"
+  email            : "hengyuan.zhang88@gmail.com"
   researchgate     : # "https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
