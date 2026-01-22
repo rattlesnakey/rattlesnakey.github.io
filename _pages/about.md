@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 🤓 Hey folks! I am Hengyuan Zhang (张恒源 in Chinese), a first-year PhD student at University of Hong Kong. Before going to college, I grew up in Xiamen, a beautiful coastal city in China.
-
+<!-- [HKU NGai Lab](https://hku-ngai.github.io/) -->
 <!-- Currently, I am a master's student (3rd year) at Tsinghua University under the supervision of Prof. [Yong Jiang](https://www.semanticscholar.org/author/Yong-Jiang/101321464) and Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN).  -->
 <!-- Currently, I am a master's student (3rd year) at Tsinghua University. -->
 📚 My research interests revolve around the application of **Natural Language Processing (NLP)** and **Data Mining** in specialized domains such as *Multilingualism*, *Education*, and *Cognitive Science*. I aim to approach these studies in an **interpretable** manner, seeking deeper insights into complex phenomena.
@@ -36,9 +36,23 @@ All in all, I aim to improve the **speciality** and **interpretability** of mode
 
 
 
-
 # 📝 Publications
 <!-- \* denotes equal contribution -->
+
+<!-- Preprint 2026 Survey -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models** 
+
+`Hengyuan Zhang`, Zhihao Zhang, Mingyang Wang, et al., Sophia Ananiadou, Tao Gui, Ruobing Xie, Hayden Kwok-Hay So, Hinrich Schütze, Xuanjing Huang, Qi Zhang, Ngai Wong
+
+[[Paper]](https://arxiv.org/pdf/2601.14004) | *Natural Language Processing, Actionable Mechanistic Interpretability* | *Journal Preprint*
+
+- This paper presents a practical survey that reframes mechanistic interpretability under a unified “Locate, Steer, and Improve” pipeline, systematically transforming MI from an observational analysis into an actionable framework for model intervention and improvement.
+
+</div>
+</div>
+
 
 <!-- ACL 2025 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/PerSyn.png' alt="sym" width="100%"></div></div>
@@ -110,6 +124,12 @@ All in all, I aim to improve the **speciality** and **interpretability** of mode
 - This paper proposes Q-MCKT framework, which utilizes an item response theory-based prediction layer to generate interpretable prediction results by simultaneously modeling knowledge acquisition and question difficulty.
 </div>
 </div>
+
+
+- <span style="background-color:rgba(2,34,141);color:white">Preprint 2026</span>
+ **MMFormalizer: Multimodal Autoformalization in the Wild** \\
+ Jing Xiong, Qi Han, Yunta Hsieh, Hui Shen, et al., `Hengyuan Zhang`, Taiqiang Wu, Haochen Wang, Zhongwei Wan, Lingpeng Kong, Ngai Wong\\
+[[Paper]](https://arxiv.org/pdf/2601.03017) | *Natural Language Processing, Multimodal Analysis* | *Conference Preprint*
 
 
 <!-- NIPS Sws-->
