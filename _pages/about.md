@@ -16,14 +16,15 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-🤓 Hey folks! I am Hengyuan Zhang (张恒源 in Chinese), a first-year PhD student at University of Hong Kong. Before going to college, I grew up in Xiamen, a beautiful coastal city in China.
+🤓 Hey folks! I am Hengyuan Zhang (张恒源 in Chinese), a first-year PhD student in the [Ngai Lab](https://hku-ngai.github.io/) at the University of Hong Kong. Before going to college, I grew up in Xiamen, a beautiful coastal city in China.
 <!-- [HKU NGai Lab](https://hku-ngai.github.io/) -->
 <!-- Currently, I am a master's student (3rd year) at Tsinghua University under the supervision of Prof. [Yong Jiang](https://www.semanticscholar.org/author/Yong-Jiang/101321464) and Prof. [Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN).  -->
 <!-- Currently, I am a master's student (3rd year) at Tsinghua University. -->
-📚 My research interests revolve around the application of **Natural Language Processing (NLP)** and **Data Mining** in specialized domains such as *Multilingualism*, *Education*, and *Cognitive Science*. I aim to approach these studies in an **interpretable** manner, seeking deeper insights into complex phenomena.
+ <!-- such as *Multilingualism*, *Education*, and *Cognitive Science*. -->
+📚 My research interests revolve around the application of **Natural Language Processing (NLP)** and **Data Mining** in specialized domains.
+ <!-- I aim to approach these studies in an **interpretable** manner, seeking deeper insights into complex phenomena. -->
 
-🧐 I am also particularly intrigued by the decision-making mechanisms integrated within models, eager to unravel their inner workings and enhance transparency.
+🧐 I am particularly intrigued by the decision-making mechanisms integrated within models, eager to unravel their inner workings and enhance transparency.
 All in all, I aim to improve the **speciality** and **interpretability** of models, so as to make them more **powerful** and **trustworthy** in real-world applications.
 
 <!-- Looking ahead, I am exploring the possibility of **enrolling in a Ph.D. program for the Fall of 2025**.  -->
@@ -320,7 +321,7 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 <!-- <img class="svg" src="/images/sensetime.png" width="85pt">Sensetime, Research, Shenzhen
 <br>
 - *Aug. 2023 - Mar. 2024*, Research Intern, working with [Fei Tan](https://scholar.google.com/citations?hl=zh-CN&user=IhYATC0AAAAJ&view_op=list_works&sortby=pubdate) -->
-<img class="svg" src="/images/sensetime.png" width="85pt">Sensetime, Research, Shenzhen
+<img class="svg" src="/images/sensetime.png" width="85pt"> Sensetime, Research, Shenzhen
 <br>
 - *Aug. 2023 - Mar. 2024*, Research Intern
 <!-- <br> -->
@@ -331,11 +332,18 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 - *Mar. 2024 - Dec. 2024*, Research Intern, working with [DongDong Zhang](https://scholar.google.com/citations?user=w2qu71oAAAAJ&hl=en) 
   - I got the <span style="color:red">"Microsoft Stars of Tomorrow"</span> Award during the internship -->
 
-<img class="svg" src="/images/MSRA.png" width="60pt">Microsoft Research Asia, NLC Group, Beijing
+<img class="svg" src="/images/MSRA.png" width="60pt"> Microsoft Research Asia, NLC Group, Beijing
 <br>
 - *Mar. 2024 - Dec. 2024*, Research Intern
   - I got the <span style="color:red">"Microsoft Stars of Tomorrow"</span> Award during the internship
 
+<img class="svg" src="/images/AMD_logo.svg" width="60pt"> AMD, Quantization Group, Beijing
+<br>
+- *Feb. 2025 - Aug. 2025*, Research Intern
+  
+<img class="svg" src="/images/tencent-logo.png" width="60pt"> Tencent Rhino-Bird Elite Research Program, Shenzhen
+<br>
+- *Sept. 2025 - Present*, Research Intern
 
 <!-- <br> -->
 
