@@ -47,7 +47,7 @@ All in all, I aim to improve the **speciality** and **interpretability** of mode
 
 `Hengyuan Zhang`, Zhihao Zhang, Mingyang Wang, et al., Sophia Ananiadou, Tao Gui, Ruobing Xie, Hayden Kwok-Hay So, Hinrich Schütze, Xuanjing Huang, Qi Zhang, Ngai Wong
 
-[[Paper]](https://arxiv.org/pdf/2601.14004) | *Natural Language Processing, Actionable Mechanistic Interpretability* | *Journal Preprint*
+[[Paper]](https://arxiv.org/pdf/2601.14004) | [[Code]](https://github.com/rattlesnakey/Awesome-Actionable-MI-Survey) | [机器之心](https://mp.weixin.qq.com/s/Nrd-hpkkN9HT6cfickVY0Q) | *Natural Language Processing, Actionable Mechanistic Interpretability* | *Journal Preprint*
 
 - This paper presents a practical survey that reframes mechanistic interpretability under a unified “Locate, Steer, and Improve” pipeline, systematically transforming MI from an observational analysis into an actionable framework for model intervention and improvement.
 
@@ -125,6 +125,19 @@ All in all, I aim to improve the **speciality** and **interpretability** of mode
 - This paper proposes Q-MCKT framework, which utilizes an item response theory-based prediction layer to generate interpretable prediction results by simultaneously modeling knowledge acquisition and question difficulty.
 </div>
 </div>
+
+- <span style="background-color:rgba(2,34,141);color:white">Preprint 2026</span>
+ **Training LLMs for Divide-and-Conquer Reasoning Elevates Test-Time Scalability** \\
+Xiao Liang, Zhong-Zhi Li, Zhenghao Lin, `Hengyuan Zhang`, Yelong Shen, Kai-Wei Chang, Ying Nian Wu, Yeyun Gong, Weizhu Chen\\
+[[Paper]](https://arxiv.org/pdf/2602.02477) | [[Code]](https://github.com/MasterVito/DAC-RL) | *Natural Language Processing, Reasoning Enhancement* | *Conference Preprint*
+
+
+
+- <span style="background-color:rgba(2,34,141);color:white">Preprint 2026</span>
+ **Residual Decoding: Mitigating Hallucinations in Large Vision-Language Models via History-Aware Residual Guidance** \\
+Xinrong Chen, Xu Chu, Yingmin Qiu, `Hengyuan Zhang`, Jing Xiong, et al., Hayden Kwok-Hay So, Ngai Wong\\
+[[Paper]](https://arxiv.org/pdf/2602.01047) | *Natural Language Processing, Multimodal Analysis* | *Conference Preprint*
+
 
 
 - <span style="background-color:rgba(2,34,141);color:white">Preprint 2026</span>
