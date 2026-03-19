@@ -55,6 +55,22 @@ All in all, I aim to improve the **speciality** and **interpretability** of mode
 </div>
 
 
+<!-- Preprint 2026 NSDS -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/NSDS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Beyond Outliers: A Data-Free Layer-wise Mixed-Precision Quantization Approach Driven by Numerical and Structural Dual-Sensitivity** 
+
+`Hengyuan Zhang`, Xinrong Chen, Zunhai Su, Xiao Liang, et al., Wei Zhang, Ruobing Xie, Lei Jiang, Hayden Kwok-Hay So, Ngai Wong
+
+[[Paper]](https://arxiv.org/pdf/2603.17354) | [[Code]](https://github.com/rattlesnakey/NSDS) | *Natural Language Processing, Interpretability in Quantization* | *Preprint*
+
+- This paper proposes NSDS, a data-free layer-wise mixed-precision quantization approach that leverages the dual-sensitivity of numerical and structural features to guide the bit allocation process.
+
+</div>
+</div>
+
+
+
 <!-- ACL 2025 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/PerSyn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -62,7 +78,7 @@ All in all, I aim to improve the **speciality** and **interpretability** of mode
 
 `Hengyuan Zhang`, Shiping Yang, Xiao Liang, et al., Chaofan Tao, Jing Xiong, Hayden Kwok-Hay So, Ruobing Xie, Angel X. Chang, Ngai Wong
 
-[[Paper]](https://arxiv.org/pdf/2510.10925) | *Natural Language Processing, Data Synthesis* | *Conference Preprint*
+[[Paper]](https://arxiv.org/pdf/2510.10925) | [[Code]](https://github.com/rattlesnakey/PerSyn) | *Natural Language Processing, Interpretability in Data Synthesis* | *Conference Preprint*
 
 - This paper proposes PerSyn, a novel data synthesis strategy that operates under a new "Route then Generate" paradigm to create data tailored to each student model, enabling it to learn more effectively.
 
@@ -77,7 +93,7 @@ All in all, I aim to improve the **speciality** and **interpretability** of mode
 
 `Hengyuan Zhang`, Chenming Shang, Sizhe Wang, Dongdong Zhang, Feng Yao, Renliang Sun, Yiyao Yu, Yujiu Yang, Furu Wei 
 
-[[Paper]](https://arxiv.org/pdf/2410.19453) | [[Code]](https://github.com/rattlesnakey/ShifCon) | *Natural Language Processing, Multilingual, Interpretability in Parameter* | *CCF-A Conference*
+[[Paper]](https://arxiv.org/pdf/2410.19453) | [[Code]](https://github.com/rattlesnakey/ShifCon) | *Natural Language Processing, Interpretability in Multilingualism* | *CCF-A Conference*
 
 - This paper aims to enhance the performance of non-dominant languages by projecting their representations into the dominant language space. We pinpoint the optimal layer area for shifting representations via a subspace distance metric. <span style="color:red">(OpenReview Score: [4, 4, 4.5])</span>
 
@@ -91,7 +107,7 @@ All in all, I aim to improve the **speciality** and **interpretability** of mode
 
 `Hengyuan Zhang`, Xinrong Chen, Xiao Liang, Ziyue Li, et al., Ngai Wong
 
-[[Paper]](https://arxiv.org/pdf/2506.14646?) | [[Code]](https://github.com/Liar406/Gui-LoMo) | *Natural Language Processing, Fine-tuning Technique, Interpretability in Parameter* | *CCF-B Conference*
+[[Paper]](https://arxiv.org/pdf/2506.14646?) | [[Code]](https://github.com/Liar406/Gui-LoMo) | *Natural Language Processing, Interpretability in Efficient Training* | *CCF-B Conference*
 
 - This paper introduces a fine-grained strategy, i.e., GuiLoMo, for jointly allocating optimal layer-wise expert numbers and ranks in LoRA-MoE based on bilevel optimization with GuidedSelection vectors.</span>
 
@@ -107,7 +123,7 @@ All in all, I aim to improve the **speciality** and **interpretability** of mode
 `Hengyuan Zhang`, Yanru Wu, Dawei Li, Zacc Yang, Rui Zhao, Yong Jiang, Fei Tan
 <!-- `Hengyuan Zhang`, et al -->
 
-[[Paper]](https://arxiv.org/pdf/2404.10306.pdf) | [[Code]](https://github.com/rattlesnakey/CoFiTune) | *Natural Language Processing, Fine-tuning Technique, Interpretability in Parameter* | *CCF-A Conference*
+[[Paper]](https://arxiv.org/pdf/2404.10306.pdf) | [[Code]](https://github.com/rattlesnakey/CoFiTune) | *Natural Language Processing, Interpretability in Knowledge Management* | *CCF-A Conference*
 
 - This paper introduces a Coarse-to-Fine Fine-tuning framework (*CoFiTune*) that strikes a delicate balance between speciality and versatility. It pinpoints and updates specific modules that are crucial for speciality, while keeping other parameters frozen.
 </div>
@@ -120,11 +136,13 @@ All in all, I aim to improve the **speciality** and **interpretability** of mode
 
 `Hengyuan Zhang`, Zitao Liu, Chenming Shang, Dawei Li, Yong Jiang
 
-[[Paper]](https://arxiv.org/pdf/2403.07322.pdf) | [[Code]](https://github.com/rattlesnakey/Q-MCKT) | *Data Mining, Education Recommendation, Interpretability in Prediction* | *JCR Q1 Journal*
+[[Paper]](https://arxiv.org/pdf/2403.07322.pdf) | [[Code]](https://github.com/rattlesnakey/Q-MCKT) | *Data Mining, Interpretability in Education Recommendation* | *JCR Q1 Journal*
 
 - This paper proposes Q-MCKT framework, which utilizes an item response theory-based prediction layer to generate interpretable prediction results by simultaneously modeling knowledge acquisition and question difficulty.
 </div>
 </div>
+
+
 
 - <span style="background-color:rgba(2,34,141);color:white">Preprint 2026</span>
  **Training LLMs for Divide-and-Conquer Reasoning Elevates Test-Time Scalability** \\
@@ -134,17 +152,16 @@ Xiao Liang, Zhong-Zhi Li, Zhenghao Lin, `Hengyuan Zhang`, Yelong Shen, Kai-Wei C
 
 
 - <span style="background-color:rgba(2,34,141);color:white">Preprint 2026</span>
- **Residual Decoding: Mitigating Hallucinations in Large Vision-Language Models via History-Aware Residual Guidance** \\
-Xinrong Chen, Xu Chu, Yingmin Qiu, `Hengyuan Zhang`, Jing Xiong, et al., Hayden Kwok-Hay So, Ngai Wong\\
-[[Paper]](https://arxiv.org/pdf/2602.01047) | *Natural Language Processing, Multimodal Analysis* | *Conference Preprint*
-
-
-
-- <span style="background-color:rgba(2,34,141);color:white">Preprint 2026</span>
  **MMFormalizer: Multimodal Autoformalization in the Wild** \\
  Jing Xiong, Qi Han, Yunta Hsieh, Hui Shen, et al., `Hengyuan Zhang`, Taiqiang Wu, Haochen Wang, Zhongwei Wan, Lingpeng Kong, Ngai Wong\\
 [[Paper]](https://arxiv.org/pdf/2601.03017) | *Natural Language Processing, Multimodal Analysis* | *Conference Preprint*
 
+
+
+- <span style="background-color:rgba(2,34,141);color:white">CVPR 2026</span>
+ **Residual Decoding: Mitigating Hallucinations in Large Vision-Language Models via History-Aware Residual Guidance** \\
+Xinrong Chen, Xu Chu, Yingmin Qiu, `Hengyuan Zhang`, Jing Xiong, et al., Hayden Kwok-Hay So, Ngai Wong\\
+[[Paper]](https://arxiv.org/pdf/2602.01047) | *Natural Language Processing, Multimodal Analysis* | *CCF-A Conference*
 
 <!-- NIPS Sws-->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
@@ -367,6 +384,8 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 <span class='anchor' id='-honor'></span>
 
 # 🏅 Selected Honors and Awards
+👉  HKU Y S and Christabel Lung Postgraduate Scholarship (Top 3%, HKD $ 20,000) \| *2025*
+
 👉  Tsinghua University Comprehensive First-Class Scholarship (Top 3%, RMB ¥ 10,000) \| *2024*
 
 👉  Tsinghua University General Excellence Scholarship (Top 5%, RMB ¥ 4,000) \| *2023*
@@ -395,13 +414,22 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 - Vice Minister of the Academic Department, SIGS Student Union, Tsinghua University  -->
 
 
-
 <br>
 <span class='anchor' id='-miscellaneous'></span>
 # 📌 Miscellaneous
-- I once led the Academic Department of SIGS Student Union at Tsinghua University. During which, I organized academic activities such as academic forums and experience-sharing sessions. I am also a member of the Beijing Xiamen ECC (北京厦门企业商会), actively participating in sharing activities [[Link]](https://mp.weixin.qq.com/s/DFG97r0-hL12VYFAeshpHA).
-- I also participated in social activities such as rural revitalization [[Photo]](images/fuding.jpg), representing Tsinghua in a Swiss "Global Warming" forum [[Photo]](images/swiss.jpg), and helping international students with Chinese, computer, and math [[Photo]](images/tutoring.jpg).
-- I am actually a person with a strong desire to share. In my spare time, I like writing blogs and sharing experiences on [[**Rednote**]](https://www.xiaohongshu.com/user/profile/5b436cc5f7e8b976f413343f?xsec_token=YBv9botEIHUitz7ZFPPhcIIdqhpMeuw6qak58zvB3MiLc=&xsec_source=app_share&xhsshare=CopyLink&appuid=5b436cc5f7e8b976f413343f&apptime=1746533636&share_id=4cf62cfa0abb409ab33119e85f32af07), [[**Wechat Official Account**]](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0NTI3ODI2OQ==&scene=124#wechat_redirect), and [[**Bilibili**]](https://space.bilibili.com/14709944?spm_id_from=333.1007.0.0) (阿源的NLP碎碎念). The selected blogs are as follows:
+ <!-- [[**Rednote**]] -->
+## 📖 Academic & Community Engagement
+I once led the Academic Department of SIGS Student Union at Tsinghua University. During which, I organized academic activities such as academic forums and experience-sharing sessions. I am also a member of the Beijing Xiamen ECC (北京厦门企业商会), actively participating in sharing activities [[Link]](https://mp.weixin.qq.com/s/DFG97r0-hL12VYFAeshpHA). Furthermore, I am keen on participating in academic events to present my ideas and making a positive impact on the community.
+
+<div style="display: flex; justify-content: space-between; gap: 2%; margin-top: 15px;">
+  <!-- 注意：请将这里的 src 替换为你真实的学术活动照片路径 -->
+  <img src="images/academic1.jpg" alt="Academic Activity 1" style="width: 32%; border-radius: 8px; object-fit: cover; aspect-ratio: 4/3;" />
+  <img src="images/academic2.jpg" alt="Academic Activity 2" style="width: 32%; border-radius: 8px; object-fit: cover; aspect-ratio: 4/3;" />
+  <img src="images/academic3.jpg" alt="Academic Activity 3" style="width: 32%; border-radius: 8px; object-fit: cover; aspect-ratio: 4/3;" />
+</div>
+
+
+I am actually a person with a strong desire to share. In my spare time, I actively write blogs on [[<img src="https://cdn.simpleicons.org/xiaohongshu/FF2442" width="27" style="vertical-align: middle; margin-bottom: 2px;"> **Rednote**]](https://www.xiaohongshu.com/user/profile/5b436cc5f7e8b976f413343f?xsec_token=YBv9botEIHUitz7ZFPPhcIIdqhpMeuw6qak58zvB3MiLc=&xsec_source=app_share&xhsshare=CopyLink&appuid=5b436cc5f7e8b976f413343f&apptime=1746533636&share_id=4cf62cfa0abb409ab33119e85f32af07), [[<img src="https://cdn.simpleicons.org/wechat/07C160" width="22" style="vertical-align: middle; margin-bottom: 2px;"> **Wechat Official Account**]](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0NTI3ODI2OQ==&scene=124#wechat_redirect), and [[<img src="https://cdn.simpleicons.org/bilibili/FB7299" width="22" style="vertical-align: middle; margin-bottom: 2px;"> **Bilibili**]](https://space.bilibili.com/14709944?spm_id_from=333.1007.0.0) (阿源的NLP碎碎念) to share knowledge and experiences. The selected blogs are as follows:
   - [Interpreting Arithmetic Calculation Modules within LLMs](https://mp.weixin.qq.com/s/D4z8zHmr3cij5_d5rOgLwg)
   - [Interpreting Security Modules within Large Language Model](https://mp.weixin.qq.com/s/3693Q7NPnRoH0r4S0RiEDA?token=889452301&lang=zh_CN)
   - [Do Llama Work in English?](https://mp.weixin.qq.com/s/8EB1q8w9DmIw_M7msK_cgw?token=889452301&lang=zh_CN)
@@ -411,22 +439,77 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
   - [The Evaluation of Instruction Following](https://mp.weixin.qq.com/s/m3RHJ9q-RCkGL33AewdDUg)
   - [Skill Localization of Large Language Model](https://mp.weixin.qq.com/s/x61tHD896Leoz8DO-0weAg)
   - [iMAge-guided Text GeneratIon with CLIP](https://mp.weixin.qq.com/s/fQ6t96aqAgvRDAIjIt9QYA)
-- I used to be a guitarist 🎸 in a band when I was in high school. Also, I love playing badminton 🏸, table tennis 🏓 and, soccer ⚽️. During holidays, I will also seize any opportunity to travel around the world  ⛳️.
 
-<div style="display: flex;">
-  <img src="images/life1.png" alt="Image 1" width="50%" />
-  <img src="images/life3.png" alt="Image 2" width="50%" />
+
+I also participated in social activities such as rural revitalization, representing Tsinghua in a Swiss "Global Warming" forum, and helping international students with Chinese, computer, and math.
+
+<div style="display: flex; justify-content: space-between; gap: 2%; margin-top: 15px;">
+  <!-- 注意：请将这里的 src 替换为你真实的学术活动照片路径 -->
+  <img src="images/fuding.jpg" alt="Extra Activity 1" style="width: 32%; border-radius: 8px; object-fit: cover; aspect-ratio: 4/3;" />
+  <img src="images/swiss.jpg" alt="Extra Activity 2" style="width: 32%; border-radius: 8px; object-fit: cover; aspect-ratio: 4/3;" />
+  <img src="images/tutoring.jpg" alt="Extra Activity 3" style="width: 32%; border-radius: 8px; object-fit: cover; aspect-ratio: 4/3;" />
 </div>
 
 <br>
 
-<div style="display: flex;">
-  <img src="images/life2.png" alt="Image 1" width="50%" />
-  <img src="images/life4.png" alt="Image 2" width="50%" />
+## 🎸 Hobbies & Life
+I used to be a guitarist 🎸 in a band when I was in high school. Also, I love playing badminton 🏸, table tennis 🏓 and, soccer ⚽️. During holidays, I will also seize any opportunity to travel around the world ⛳️.
+
+<p style="margin-top: 20px; font-weight: bold; color: #555;">🎤 Band & Singing</p>
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-top: 15px;">
+<!-- 带有 Video 标签的 4 张唱歌照片 -->
+  <div style="width: 22%; text-align: center; position: relative;">
+    <!-- <img src="images/singing1.jpg" alt="Singing 1" style="width: 100%; border-radius: 8px; aspect-ratio: 1; object-fit: cover;" /> -->
+    <img src="images/singing4_1.png" alt="Singing 1" style="width: 100%; border-radius: 8px; aspect-ratio: 1; object-fit: contain; background-color: #f8f9fa;" />
+    <!-- 注意：请将这里的 href 替换为你真实的视频链接 -->
+    <a href="https://www.bilibili.com/video/BV1T4411a7KH/?spm_id_from=333.1387.upload.video_card.click" target="_blank" style="display: inline-block; margin-top: 8px; padding: 4px 8px; background-color: #f8f9fa; border-radius: 4px; font-size: 0.85em; color: #d9534f; text-decoration: none; font-weight: bold; border: 1px solid #ddd; transition: 0.3s;">▶️ Watch Video</a>
+  </div>
+  <div style="width: 22%; text-align: center; position: relative;">
+    <img src="images/singing3_1.jpg" alt="Singing 2" style="width: 100%; border-radius: 8px; aspect-ratio: 1; object-fit: cover;" />
+    <a href="https://www.bilibili.com/video/BV1d7411z7YY/?spm_id_from=333.1387.upload.video_card.click" target="_blank" style="display: inline-block; margin-top: 8px; padding: 4px 8px; background-color: #f8f9fa; border-radius: 4px; font-size: 0.85em; color: #d9534f; text-decoration: none; font-weight: bold; border: 1px solid #ddd; transition: 0.3s;">▶️ Watch Video</a>
+  </div>
+  <div style="width: 22%; text-align: center; position: relative;">
+    <img src="images/singing1.jpg" alt="Singing 3" style="width: 100%; border-radius: 8px; aspect-ratio: 1; object-fit: cover;" />
+    <a href="https://www.xiaohongshu.com/discovery/item/67efe4ac000000001202d0c5?source=webshare&xhsshare=pc_web&xsec_token=ABX0dqg2iOwWFvi88JTOIgudhF40KsyZs8E6nDRT_b9Y0=&xsec_source=pc_share" target="_blank" style="display: inline-block; margin-top: 8px; padding: 4px 8px; background-color: #f8f9fa; border-radius: 4px; font-size: 0.85em; color: #d9534f; text-decoration: none; font-weight: bold; border: 1px solid #ddd; transition: 0.3s;">▶️ Watch Video</a>
+  </div>
+  <div style="width: 22%; text-align: center; position: relative;">
+    <img src="images/singing2.jpg" alt="Singing 4" style="width: 100%; border-radius: 8px; aspect-ratio: 1; object-fit: cover;" />
+    <a href="https://www.xiaohongshu.com/explore/6873c7f300000000100252be?source=webshare&xhsshare=pc_web&xsec_token=ABOo4uYc8fjwpZi8TWiDAk6hU3L_YocGmsJwrDj0MQxjw=&xsec_source=pc_share" target="_blank" style="display: inline-block; margin-top: 8px; padding: 4px 8px; background-color: #f8f9fa; border-radius: 4px; font-size: 0.85em; color: #d9534f; text-decoration: none; font-weight: bold; border: 1px solid #ddd; transition: 0.3s;">▶️ Watch Video</a>
+  </div>
+</div>
+
+<p style="margin-top: 35px; font-weight: bold; color: #555;">🏸 Sports & Travel</p>
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <!-- 原有的 4 张图片 -->
+  <div style="width: 22%; text-align: center;">
+    <img src="images/badminton.jpg" alt="Life 1" style="width: 100%; border-radius: 8px; aspect-ratio: 1; object-fit: cover;" />
+  </div>
+  <div style="width: 22%; text-align: center;">
+    <img src="images/life2_1.png" alt="Life 2" style="width: 100%; border-radius: 8px; aspect-ratio: 1; object-fit: cover;" />
+  </div>
+  <div style="width: 22%; text-align: center;">
+    <img src="images/life3_1.png" alt="Life 3" style="width: 100%; border-radius: 8px; aspect-ratio: 1; object-fit: cover;" />
+  </div>
+  <div style="width: 22%; text-align: center;">
+    <img src="images/life4.png" alt="Life 4" style="width: 100%; border-radius: 8px; aspect-ratio: 1; object-fit: cover;" />
+  </div>
+
+
+  <!-- 剩余的 6 张兴趣/生活照片 -->
+  <div style="width: 22%; text-align: center;">
+    <img src="images/life5.jpg" alt="Life 5" style="width: 100%; border-radius: 8px; aspect-ratio: 1; object-fit: cover;" />
+  </div>
+  <div style="width: 22%; text-align: center;">
+    <img src="images/life6.jpg" alt="Life 6" style="width: 100%; border-radius: 8px; aspect-ratio: 1; object-fit: cover;" />
+  </div>
+  <div style="width: 22%; text-align: center;">
+    <img src="images/life7.jpg" alt="Life 7" style="width: 100%; border-radius: 8px; aspect-ratio: 1; object-fit: cover;" />
+  </div>
+  <div style="width: 22%; text-align: center;">
+    <img src="images/life8_2.jpg" alt="Life 8" style="width: 100%; border-radius: 8px; aspect-ratio: 1; object-fit: cover;" />
+  </div>
 </div>
 
 
-<!-- <span class='anchor' id='-posts'></span>
 
-# 📜 Selected Posts -->
 
