@@ -419,7 +419,7 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 # 📌 Miscellaneous
  <!-- [[**Rednote**]] -->
 ## 📖 Academic & Community Engagement
-I once led the Academic Department of SIGS Student Union at Tsinghua University. During which, I organized academic activities such as academic forums and experience-sharing sessions. I am also a member of the Beijing Xiamen ECC (北京厦门企业商会), actively participating in sharing activities [[Link]](https://mp.weixin.qq.com/s/DFG97r0-hL12VYFAeshpHA). Furthermore, I am keen on participating in academic events to present my ideas and making a positive impact on the community.
+- I once led the Academic Department of SIGS Student Union at Tsinghua University. During which, I organized academic activities such as academic forums and experience-sharing sessions. I am also a member of the Beijing Xiamen ECC (北京厦门企业商会), actively participating in sharing activities [[Link]](https://mp.weixin.qq.com/s/DFG97r0-hL12VYFAeshpHA). Furthermore, I am keen on participating in academic events to present my ideas and making a positive impact on the community.
 
 <div style="display: flex; justify-content: space-between; gap: 2%; margin-top: 15px;">
   <!-- 注意：请将这里的 src 替换为你真实的学术活动照片路径 -->
@@ -429,7 +429,7 @@ I once led the Academic Department of SIGS Student Union at Tsinghua University.
 </div>
 
 
-I am actually a person with a strong desire to share. In my spare time, I actively write blogs on [[<img src="https://cdn.simpleicons.org/xiaohongshu/FF2442" width="27" style="vertical-align: middle; margin-bottom: 2px;"> **Rednote**]](https://www.xiaohongshu.com/user/profile/5b436cc5f7e8b976f413343f?xsec_token=YBv9botEIHUitz7ZFPPhcIIdqhpMeuw6qak58zvB3MiLc=&xsec_source=app_share&xhsshare=CopyLink&appuid=5b436cc5f7e8b976f413343f&apptime=1746533636&share_id=4cf62cfa0abb409ab33119e85f32af07), [[<img src="https://cdn.simpleicons.org/wechat/07C160" width="22" style="vertical-align: middle; margin-bottom: 2px;"> **Wechat Official Account**]](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0NTI3ODI2OQ==&scene=124#wechat_redirect), and [[<img src="https://cdn.simpleicons.org/bilibili/FB7299" width="22" style="vertical-align: middle; margin-bottom: 2px;"> **Bilibili**]](https://space.bilibili.com/14709944?spm_id_from=333.1007.0.0) (阿源的NLP碎碎念) to share knowledge and experiences. The selected blogs are as follows:
+- I am actually a person with a strong desire to share. In my spare time, I actively write blogs on [[<img src="https://cdn.simpleicons.org/xiaohongshu/FF2442" width="27" style="vertical-align: middle; margin-bottom: 2px;"> **Rednote**]](https://www.xiaohongshu.com/user/profile/5b436cc5f7e8b976f413343f?xsec_token=YBv9botEIHUitz7ZFPPhcIIdqhpMeuw6qak58zvB3MiLc=&xsec_source=app_share&xhsshare=CopyLink&appuid=5b436cc5f7e8b976f413343f&apptime=1746533636&share_id=4cf62cfa0abb409ab33119e85f32af07), [[<img src="https://cdn.simpleicons.org/wechat/07C160" width="22" style="vertical-align: middle; margin-bottom: 2px;"> **Wechat Official Account**]](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0NTI3ODI2OQ==&scene=124#wechat_redirect), and [[<img src="https://cdn.simpleicons.org/bilibili/FB7299" width="22" style="vertical-align: middle; margin-bottom: 2px;"> **Bilibili**]](https://space.bilibili.com/14709944?spm_id_from=333.1007.0.0) (阿源的NLP碎碎念) to share knowledge and experiences. The selected blogs are as follows:
   - [Interpreting Arithmetic Calculation Modules within LLMs](https://mp.weixin.qq.com/s/D4z8zHmr3cij5_d5rOgLwg)
   - [Interpreting Security Modules within Large Language Model](https://mp.weixin.qq.com/s/3693Q7NPnRoH0r4S0RiEDA?token=889452301&lang=zh_CN)
   - [Do Llama Work in English?](https://mp.weixin.qq.com/s/8EB1q8w9DmIw_M7msK_cgw?token=889452301&lang=zh_CN)
@@ -441,7 +441,7 @@ I am actually a person with a strong desire to share. In my spare time, I active
   - [iMAge-guided Text GeneratIon with CLIP](https://mp.weixin.qq.com/s/fQ6t96aqAgvRDAIjIt9QYA)
 
 
-I also participated in social activities such as rural revitalization, representing Tsinghua in a Swiss "Global Warming" forum, and helping international students with Chinese, computer, and math.
+- I also participated in social activities such as rural revitalization, representing Tsinghua in a Swiss "Global Warming" forum, and helping international students with Chinese, computer, and math.
 
 <div style="display: flex; justify-content: space-between; gap: 2%; margin-top: 15px;">
   <!-- 注意：请将这里的 src 替换为你真实的学术活动照片路径 -->
@@ -453,7 +453,7 @@ I also participated in social activities such as rural revitalization, represent
 <br>
 
 ## 🎸 Hobbies & Life
-I used to be a guitarist 🎸 in a band when I was in high school. Also, I love playing badminton 🏸, table tennis 🏓 and, soccer ⚽️. During holidays, I will also seize any opportunity to travel around the world ⛳️.
+- I used to be a guitarist 🎸 in a band when I was in high school. Also, I love playing badminton 🏸, table tennis 🏓 and, soccer ⚽️. During holidays, I will also seize any opportunity to travel around the world ⛳️.
 
 <p style="margin-top: 20px; font-weight: bold; color: #555;">🎤 Band & Singing</p>
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-top: 15px;">
