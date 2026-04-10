@@ -72,7 +72,7 @@ All in all, I aim to improve the **speciality** and **interpretability** of mode
 
 
 <!-- ACL 2025 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/PerSyn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/PerSyn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Find Your Optimal Teacher: Personalized Data Synthesis via Router-Guided Multi-Teacher Distillation** 
 
@@ -144,12 +144,15 @@ All in all, I aim to improve the **speciality** and **interpretability** of mode
 
 
 
-- <span style="background-color:rgba(2,34,141);color:white">Preprint 2026</span>
+- <span style="background-color:rgba(2,34,141);color:white">ACL 2026</span>
  **Training LLMs for Divide-and-Conquer Reasoning Elevates Test-Time Scalability** \\
 Xiao Liang, Zhong-Zhi Li, Zhenghao Lin, `Hengyuan Zhang`, Yelong Shen, Kai-Wei Chang, Ying Nian Wu, Yeyun Gong, Weizhu Chen\\
 [[Paper]](https://arxiv.org/pdf/2602.02477) | [[Code]](https://github.com/MasterVito/DAC-RL) | *Natural Language Processing, Reasoning Enhancement* | *Conference Preprint*
 
-
+- <span style="background-color:rgba(2,34,141);color:white">ACL 2026</span>
+ **Quantifying the Robustness of Retrieval-Augmented Language Models Against Spurious Features in Grounding Data** \\
+Shiping Yang, Jie Wu, Wenbiao Ding, et al., `Hengyuan Zhang`, Dongmei Zhang\\
+[[Paper]](https://arxiv.org/pdf/2503.05587) | *Natural Language Processing, Phenomenon Analysis* | *Conference Preprint*
 
 - <span style="background-color:rgba(2,34,141);color:white">Preprint 2026</span>
  **MMFormalizer: Multimodal Autoformalization in the Wild** \\
@@ -211,10 +214,6 @@ Sizhe Wang, Yongqi Tong, `Hengyuan Zhang`, Dawei Li, Xin Zhang, Tianlong Chen \\
 <!-- ACL 2025 shiping-->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-- <span style="background-color:rgba(2,34,141);color:white">Preprint 2025</span>
- **Quantifying the Robustness of Retrieval-Augmented Language Models Against Spurious Features in Grounding Data** \\
-Shiping Yang, Jie Wu, Wenbiao Ding, et al., `Hengyuan Zhang`, Dongmei Zhang\\
-[[Paper]](https://arxiv.org/pdf/2503.05587) | *Natural Language Processing, Phenomenon Analysis* | *Conference Preprint*
 
 
 <!-- TKDE -->

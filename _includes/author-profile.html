@@ -94,8 +94,14 @@
       {% if author.weibo %}
         <li><a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i> Weibo</a></li>
       {% endif %}
+      {% if author.rednote %}
+        <li><a href="{{ author.rednote }}"><img src="https://cdn.simpleicons.org/xiaohongshu/FF2442" alt="" aria-hidden="true" style="width: 1em; height: 1em; margin-right: 0.35em; vertical-align: -0.125em;"> Rednote</a></li>
+      {% endif %}
       {% if author.wechat %}
         <li><a href="{{ author.wechat }}"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat</a></li>
+      {% endif %}
+      {% if author.bilibili %}
+        <li><a href="{{ author.bilibili }}"><img src="https://cdn.simpleicons.org/bilibili/FB7299" alt="" aria-hidden="true" style="width: 1em; height: 1em; margin-right: 0.35em; vertical-align: -0.125em;"> Bilibili</a></li>
       {% endif %}
       {% if author.flickr %}
         <li><a href="https://www.flickr.com/{{ author.flickr }}"><i class="fab fa-fw fa-flickr" aria-hidden="true"></i> Flickr</a></li>
@@ -192,8 +198,14 @@
       {% if author.weibo %}
         <a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i></a>
       {% endif %}
+      {% if author.rednote %}
+        <a href="{{ author.rednote }}"><img src="https://cdn.simpleicons.org/xiaohongshu/FF2442" alt="Rednote" style="width: 1em; height: 1em;"></a>
+      {% endif %}
       {% if author.wechat %}
         <a href="{{ author.wechat }}"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.bilibili %}
+        <a href="{{ author.bilibili }}"><img src="https://cdn.simpleicons.org/bilibili/FB7299" alt="Bilibili" style="width: 1em; height: 1em;"></a>
       {% endif %}
       {% if author.flickr %}
         <a href="https://www.flickr.com/{{ author.flickr }}"><i class="fab fa-fw fa-flickr" aria-hidden="true"></i></a>

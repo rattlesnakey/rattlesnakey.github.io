@@ -54,10 +54,14 @@ author:
   twitter          : 
   vine             :
   weibo            :
+  rednote          : "https://www.xiaohongshu.com/user/profile/5b436cc5f7e8b976f413343f?xsec_token=YBv9botEIHUitz7ZFPPhcIIdqhpMeuw6qak58zvB3MiLc=&xsec_source=app_share&xhsshare=CopyLink&appuid=5b436cc5f7e8b976f413343f&apptime=1746533636&share_id=4cf62cfa0abb409ab33119e85f32af07"
   xing             :
   youtube          :
+  bilibili         : "https://space.bilibili.com/14709944?spm_id_from=333.1007.0.0"
   wikipedia        :
   wechat           : images/wechat.png
+
+  
 
 
 # Reading Files
