@@ -54,6 +54,20 @@ All in all, I aim to improve the **speciality** and **interpretability** of mode
 </div>
 </div>
 
+<!-- Preprint 2026 Survey -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/AS-Survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Attention Sink in Transformers: A Survey on Utilization, Interpretation, and Mitigation** 
+
+Zunhai Su, `Hengyuan Zhang`, et al., Jing Xiong, Hui Shen, Chaofan Tao, Taiqiang Wu, Zhongwei Wan, Yulei Qian, Yuchen Xie, Ngai Wong
+
+[[Paper]](https://arxiv.org/pdf/2604.10098) | [[Code]](https://github.com/ZunhaiSu/Awesome-Attention-Sink) | [机器之心](https://mp.weixin.qq.com/s/lu8qvvJujGShtM7eHLeyBA) | *Natural Language Processing, Attention Sink Interpretability* | *Journal Preprint*
+
+- This paper presents the first comprehensive survey on Attention Sink (AS) in Transformers, systematically organizing existing research along three core dimensions—Fundamental Utilization, Mechanistic Interpretation, and Strategic Mitigation.
+
+</div>
+</div>
+
 
 <!-- Preprint 2026 NSDS -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/NSDS.png' alt="sym" width="100%"></div></div>
@@ -109,7 +123,7 @@ All in all, I aim to improve the **speciality** and **interpretability** of mode
 
 [[Paper]](https://arxiv.org/pdf/2506.14646?) | [[Code]](https://github.com/Liar406/Gui-LoMo) | *Natural Language Processing, Interpretability in Efficient Training* | *CCF-B Conference*
 
-- This paper introduces a fine-grained strategy, i.e., GuiLoMo, for jointly allocating optimal layer-wise expert numbers and ranks in LoRA-MoE based on bilevel optimization with GuidedSelection vectors.</span>
+- This paper introduces a fine-grained strategy, i.e., GuiLoMo, for jointly allocating optimal layer-wise expert numbers and ranks in LoRA-MoE based on bilevel optimization with GuidedSelection vectors.
 
 </div>
 </div>
