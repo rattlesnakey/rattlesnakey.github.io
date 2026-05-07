@@ -241,10 +241,10 @@ Sizhe Wang, Yongqi Tong, `Hengyuan Zhang`, Dawei Li, Xin Zhang, Tianlong Chen \\
 <!-- ICLR 2025 -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/LoReKT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-- <span style="background-color:rgba(2,34,141);color:white">Preprint 2024</span>
+<!-- - <span style="background-color:rgba(2,34,141);color:white">Preprint 2024</span>
  **Compositional Generalization Through Neuroscience-inspired Geometric Constraints on Representation Structure**\\
 Chenming Shang, Shiji Zhou, `Hengyuan Zhang`, Xinchen Zhang, Lei Ke, Yuwang Wang, Yujiu Yang\\
-[[Paper]](https://ns7kunkhuh.feishu.cn/file/EI8jb6luDoiDQUxYosVc2q3enGd?from=from_copylink) | *Computer Vision, Cognitive Science, Interpretability in Representation* | *Conference Preprint*
+[[Paper]](https://ns7kunkhuh.feishu.cn/file/EI8jb6luDoiDQUxYosVc2q3enGd?from=from_copylink) | *Computer Vision, Cognitive Science, Interpretability in Representation* | *Conference Preprint* -->
 
 <!-- CogSci CBM -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2024</div><img src='images/CogSci.png' alt="sym" width="100%"></div></div>
