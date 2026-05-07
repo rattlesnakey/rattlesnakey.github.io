@@ -92,7 +92,7 @@ Zunhai Su, `Hengyuan Zhang`, et al., Jing Xiong, Hui Shen, Chaofan Tao, Taiqiang
 
 `Hengyuan Zhang`, Shiping Yang, Xiao Liang, et al., Chaofan Tao, Jing Xiong, Hayden Kwok-Hay So, Ruobing Xie, Angel X. Chang, Ngai Wong
 
-[[Paper]](https://arxiv.org/pdf/2510.10925) | [[Code]](https://github.com/rattlesnakey/PerSyn) | *Natural Language Processing, Interpretability in Data Synthesis* | *Conference Preprint*
+[[Paper]](https://arxiv.org/pdf/2510.10925) | [[Code]](https://github.com/rattlesnakey/PerSyn) | *Natural Language Processing, Interpretability in Data Synthesis* | *CCF-A Conference*
 
 - This paper proposes PerSyn, a novel data synthesis strategy that operates under a new "Route then Generate" paradigm to create data tailored to each student model, enabling it to learn more effectively.
 
@@ -161,12 +161,12 @@ Zunhai Su, `Hengyuan Zhang`, et al., Jing Xiong, Hui Shen, Chaofan Tao, Taiqiang
 - <span style="background-color:rgba(2,34,141);color:white">ACL 2026</span>
  **Training LLMs for Divide-and-Conquer Reasoning Elevates Test-Time Scalability** \\
 Xiao Liang, Zhong-Zhi Li, Zhenghao Lin, `Hengyuan Zhang`, Yelong Shen, Kai-Wei Chang, Ying Nian Wu, Yeyun Gong, Weizhu Chen\\
-[[Paper]](https://arxiv.org/pdf/2602.02477) | [[Code]](https://github.com/MasterVito/DAC-RL) | *Natural Language Processing, Reasoning Enhancement* | *Conference Preprint*
+[[Paper]](https://arxiv.org/pdf/2602.02477) | [[Code]](https://github.com/MasterVito/DAC-RL) | *Natural Language Processing, Reasoning Enhancement* | *CCF-A Conference*
 
 - <span style="background-color:rgba(2,34,141);color:white">ACL 2026</span>
  **Quantifying the Robustness of Retrieval-Augmented Language Models Against Spurious Features in Grounding Data** \\
 Shiping Yang, Jie Wu, Wenbiao Ding, et al., `Hengyuan Zhang`, Dongmei Zhang\\
-[[Paper]](https://arxiv.org/pdf/2503.05587) | *Natural Language Processing, Phenomenon Analysis* | *Conference Preprint*
+[[Paper]](https://arxiv.org/pdf/2503.05587) | *Natural Language Processing, Phenomenon Analysis* | *CCF-A Conference*
 
 - <span style="background-color:rgba(2,34,141);color:white">Preprint 2026</span>
  **MMFormalizer: Multimodal Autoformalization in the Wild** \\
@@ -335,9 +335,9 @@ Cunliang Kong, Yujie Wang, Ruining Chong, Liner Yang, `Hengyuan Zhang`, Erhong 
 <!-- <img class="svg" src="/images/baidu.png" width="60pt">Baidu, Search Strategy Lab, Beijing
 <br>
 - *Mar. 2021 - Jul. 2021*, Engineering Intern, working with Ge Chen -->
-<img class="svg" src="/images/baidu.png" width="60pt">Baidu, Search Strategy Lab, Beijing
+<!-- <img class="svg" src="/images/baidu.png" width="60pt">Baidu, Search Strategy Lab, Beijing
 <br>
-- *Mar. 2021 - Jul. 2021*, Engineering Intern
+- *Mar. 2021 - Jul. 2021*, Engineering Intern -->
 
 <!-- <br> -->
 <!-- xiaomi -->
